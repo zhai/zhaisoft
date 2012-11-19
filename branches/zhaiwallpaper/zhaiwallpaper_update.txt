@@ -1,4 +1,0 @@
-version_name=0.9.6.1030
-force_update=1
-apk=http://zhaisoft.googlecode.com/svn/branches/zhaiwallpaper/zhaiwallpaper.apk
-info=http://zhaisoft.googlecode.com/svn/branches/zhaiwallpaper/aboutzhaiwallpaper.html

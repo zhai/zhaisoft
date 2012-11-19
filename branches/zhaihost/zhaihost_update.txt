@@ -1,5 +1,0 @@
-version_name=0.9.1109.1
-force_update=0
-apk=https://zhaisoft.googlecode.com/svn/branches/zhaihost/onekeyhost.apk
-info=https://zhaisoft.googlecode.com/svn/branches/zhaihost/aboutonekeyhost.html
-hoststime=2012-11-19 18:00:00
