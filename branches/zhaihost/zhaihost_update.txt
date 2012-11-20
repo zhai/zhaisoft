@@ -2,4 +2,4 @@ version_name=0.9.3.1119
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/aboutonekeyhost.html
-hoststime=2012-11-19 18:00:00
+hoststime=2012-11-20 09:00:00
