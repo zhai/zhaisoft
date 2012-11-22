@@ -65,10 +65,14 @@ fe80::1%lo0	localhost
 
 #添加google 
 203.208.46.206 www.google.com.hk
-203.208.46.206 plus.url.google.com.hk
-203.208.46.206 plus.google.com
-203.208.46.206 plus.url.google.com
-203.208.46.206 plusone.google.com
+#203.208.46.206 plus.url.google.com.hk
+#203.208.46.206 plus.google.com
+#203.208.46.206 plus.url.google.com
+#203.208.46.206 plusone.google.com
+
+173.194.72.189 plus.url.google.com.hk
+173.194.72.189	plus.google.com
+74.125.31.190	plus.url.google.com
 
 # 屏蔽Adobe激活服务器：
 0.0.0.0 activate.adobe.com
