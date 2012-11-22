@@ -59,6 +59,12 @@ fe80::1%lo0	localhost
 255.255.255.255	broadcasthost
 127.0.0.1 advertising.apple.com
 
+
+74.125.224.151 www.google.com.hk
+173.194.72.189 plus.url.google.com.hk
+173.194.72.189	plus.google.com
+74.125.31.190	plus.url.google.com
+
 ######## Localhost END ########
 
 ######## IPv4 HOSTS ########
@@ -566,7 +572,7 @@ fe80::1%lo0	localhost
 203.208.46.202 toolbarqueries.google.com.hk
 203.208.46.203 translate.google.com.hk
 203.208.46.205 wenda.google.com.hk
-203.208.46.206 www.google.com.hk
+
 
 203.208.46.201 android.googlesource.com
 203.208.46.201 auth.keyhole.com
