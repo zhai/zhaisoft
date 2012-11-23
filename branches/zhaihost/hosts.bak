@@ -1246,6 +1246,7 @@ fe80::1%lo0	localhost
 69.171.237.20 facebook.com 
 69.171.237.20 www.facebook.com 
 69.171.228.72 apps.facebook.com 
+
 69.171.228.72 api-read.facebook.com
 198.87.182.145 profile.ak.fbcdn.net 
 63.238.2.161 vthumb.ak.fbcdn.net 
