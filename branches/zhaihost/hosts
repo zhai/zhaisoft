@@ -48,8 +48,7 @@
 
 # update google.hk
 
-173.194.33.63 www.google.com.hk
-173.194.33.63 www.google.com
+
 #Linux
 #127.0.1.1   #Fill Your PC name here and delete the # at the front
 ::1 localhost ip6-localhost ip6-loopback
