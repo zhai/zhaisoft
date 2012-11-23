@@ -1235,6 +1235,7 @@ fe80::1%lo0	localhost
 165.254.42.83 b.static.ak.facebook.com
 66.220.149.99 graph.facebook.com 
 69.171.228.76 ssl.facebook.com 
+69.171.234.22 api-read.facebook.com
 69.171.234.22 api.facebook.com 
 66.220.151.32 secure-profile.facebook.com 
 69.63.188.59 secure.facebook.com 
