@@ -3,21 +3,11 @@
 ::1         localhost
 #Windows
 127.0.0.1 localhost.localdomain localhost
-<<<<<<< HEAD
-
-
-# update google.hk
-
-
-#Linux
-#127.0.1.1   #Fill Your PC name here and delete the # at the front
-=======
 #Windows8 Active
 67.215.65.132 kms-c.no-ip.org
 2001:470:70:1a1::2 kms-c.no-ip.org
 #Ubuntu
 127.0.1.1   #Fill Your Ubuntu Pc name here
->>>>>>> updata hosts
 ::1 localhost ip6-localhost ip6-loopback
 fe00::0 ip6-localnet
 ff00::0 ip6-mcastprefix
@@ -28,1236 +18,6 @@ ff02::3 ip6-allhosts
 fe80::1%lo0	localhost
 255.255.255.255	broadcasthost
 127.0.0.1 advertising.apple.com
-<<<<<<< HEAD
-
-######## Localhost END ########
-
-######## IPv4 HOSTS ########
-
-# 屏蔽Adobe激活服务器：
-0.0.0.0 activate.adobe.com
-0.0.0.0 practivate.adobe.com
-0.0.0.0 ereg.adobe.com
-0.0.0.0 activate.wip3.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 3dns-3.adobe.com
-0.0.0.0 3dns-2.adobe.com
-0.0.0.0 adobe-dns.adobe.com
-0.0.0.0 adobe-dns-2.adobe.com
-0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
-0.0.0.0 activate-sea.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 activate-sjc0.adobe.com
-# Adobe CS6
-127.0.0.1 lmlicenses.wip4.adobe.com
-127.0.0.1 lm.licenses.adobe.com
-
-# 屏蔽Parallels Desktop 7激活服务器：
-127.0.0.1 pd6.blist.parallels.com
-127.0.0.1 pd7.blist.parallels.com
-127.0.0.1 pdfm7.blist.parallels.com 
-127.0.0.1 registration.parallels.com
-127.0.0.1 parallels.com
-127.0.0.1 update.parallels.com
-
-######## Huhamhire HOSTS ########
-216.34.181.97 hosts.huhamhire.com
-
-######  Google Services from Beijing, China ######
-203.208.46.200 0.docs.google.com
-203.208.46.200 0.drive.google.com
-203.208.46.201 1.docs.google.com
-203.208.46.201 1.drive.google.com
-203.208.46.202 2.docs.google.com
-203.208.46.202 2.drive.google.com
-203.208.46.203 3.docs.google.com
-203.208.46.203 3.drive.google.com
-203.208.46.204 4.docs.google.com
-203.208.46.204 4.drive.google.com
-203.208.46.205 5.docs.google.com
-203.208.46.205 5.drive.google.com
-203.208.46.206 6.docs.google.com
-203.208.46.206 6.drive.google.com
-203.208.46.207 7.docs.google.com
-203.208.46.207 7.drive.google.com
-203.208.46.208 8.docs.google.com
-203.208.46.208 8.drive.google.com
-203.208.46.209 9.docs.google.com
-203.208.46.209 9.drive.google.com
-203.208.46.210 10.docs.google.com
-203.208.46.210 10.drive.google.com
-203.208.46.211 11.docs.google.com
-203.208.46.211 11.drive.google.com
-203.208.46.212 12.docs.google.com
-203.208.46.212 12.drive.google.com
-203.208.46.213 13.docs.google.com
-203.208.46.213 13.drive.google.com
-203.208.46.214 14.docs.google.com
-203.208.46.214 14.drive.google.com
-203.208.46.215 15.docs.google.com
-203.208.46.215 15.drive.google.com
-203.208.46.216 16.docs.google.com
-203.208.46.216 16.drive.google.com
-203.208.46.206 accounts.google.com
-203.208.46.206 accounts.l.google.com
-203.208.46.206 answers.google.com
-203.208.46.206 apis.google.com
-203.208.46.206 appengine.google.com
-203.208.46.205 apps.google.com
-203.208.46.205 appspot.l.google.com
-203.208.46.200 bks0.books.google.com
-203.208.46.201 bks1.books.google.com
-203.208.46.202 bks2.books.google.com
-203.208.46.203 bks3.books.google.com
-203.208.46.204 bks4.books.google.com
-203.208.46.205 bks5.books.google.com
-203.208.46.206 bks6.books.google.com
-203.208.46.207 bks7.books.google.com
-203.208.46.208 bks8.books.google.com
-203.208.46.209 bks9.books.google.com
-203.208.46.210 bks10.books.google.com
-203.208.46.205 blogsearch.google.com
-203.208.46.205 books.google.com
-203.208.46.205 browserchannel-docs.l.google.com
-203.208.46.206 browserchannel-spreadsheets.l.google.com
-203.208.46.205 browsersync.google.com
-203.208.46.206 browsersync.l.google.com
-203.208.46.200 buzz.google.com
-203.208.46.205 cache.l.google.com
-203.208.46.206 cache.pack.google.com
-203.208.46.205 calendar.google.com
-203.208.46.200 cbk0.google.com
-203.208.46.201 cbk1.google.com
-203.208.46.202 cbk2.google.com
-203.208.46.203 cbk3.google.com
-203.208.46.200 cbks0.google.com
-203.208.46.201 cbks1.google.com
-203.208.46.202 cbks2.google.com
-203.208.46.203 cbks3.google.com
-203.208.46.206 chart.apis.google.com
-203.208.46.206 chatenabled.mail.google.com
-203.208.46.205 checkout.google.com
-203.208.46.206 checkout.l.google.com
-203.208.46.206 chrome.google.com
-203.208.46.200 clients.l.google.com
-203.208.46.201 clients1.google.com
-203.208.46.202 clients2.google.com
-203.208.46.203 clients3.google.com
-203.208.46.204 clients4.google.com
-203.208.46.205 clients5.google.com
-203.208.46.206 clients6.google.com
-203.208.46.207 clients7.google.com
-203.208.46.205 code.google.com
-203.208.46.206 code.l.google.com
-203.208.46.206 csi.l.google.com
-203.208.46.200 desktop.google.com
-203.208.46.201 desktop.l.google.com
-203.208.46.202 desktop2.google.com
-203.208.46.203 developers.google.com
-203.208.46.201 ditu.google.com
-203.208.46.200 dl.google.com
-203.208.46.201 dl.l.google.com
-203.208.46.202 dl-ssl.google.com
-203.208.46.205 docs.google.com
-203.208.46.200 docs0.google.com
-203.208.46.201 docs1.google.com
-203.208.46.202 docs2.google.com
-203.208.46.203 docs3.google.com
-203.208.46.204 docs4.google.com
-203.208.46.205 docs5.google.com
-203.208.46.206 docs6.google.com
-203.208.46.207 docs7.google.com
-203.208.46.208 docs8.google.com
-203.208.46.209 docs9.google.com
-203.208.46.206 drive.google.com
-203.208.46.206 earth.google.com
-203.208.46.206 earth.google.com
-203.208.46.206 encrypted.google.com
-203.208.46.205 encrypted-tbn.l.google.com
-203.208.46.200 encrypted-tbn0.google.com
-203.208.46.201 encrypted-tbn1.google.com
-203.208.46.202 encrypted-tbn2.google.com
-203.208.46.203 encrypted-tbn3.google.com
-203.208.46.205 feedburner.google.com
-203.208.46.205 feedproxy.google.com
-203.208.46.207 filetransferenabled.mail.google.com
-203.208.46.206 finance.google.com
-203.208.46.206 fusion.google.com
-203.208.46.202 geoauth.google.com
-203.208.46.203 gg.google.com
-203.208.46.204 ghs.google.com
-203.208.46.205 ghs.l.google.com
-203.208.46.206 ghs46.google.com
-203.208.46.207 ghs46.l.google.com
-203.208.46.206 google.com
-203.208.46.205 googleapis.l.google.com
-203.208.46.205 googleapis-ajax.google.com
-203.208.46.206 googleapis-ajax.l.google.com
-203.208.46.205 googlecode.l.google.com
-8.8.8.8 google-public-dns-a.google.com
-8.8.4.4 google-public-dns-b.google.com
-203.208.46.206 goto.google.com
-203.208.46.202 groups.google.com
-203.208.46.203 groups.l.google.com
-203.208.46.204 groups-beta.google.com
-203.208.46.205 gxc.google.com
-203.208.46.206 id.google.com
-203.208.46.206 id.l.google.com
-203.208.46.205 images.google.com
-203.208.46.205 images.l.google.com
-203.208.46.205 investor.google.com
-203.208.46.200 jmt0.google.com
-203.208.46.204 kh.google.com
-203.208.46.205 kh.l.google.com
-203.208.46.206 khm.google.com
-203.208.46.203 khm.l.google.com
-203.208.46.200 khm0.google.com
-203.208.46.201 khm1.google.com
-203.208.46.202 khm2.google.com
-203.208.46.203 khm3.google.com
-203.208.46.204 khmdb.google.com
-203.208.46.202 khms.google.com
-203.208.46.203 khms.l.google.com
-203.208.46.200 khms0.google.com
-203.208.46.201 khms1.google.com
-203.208.46.202 khms2.google.com
-203.208.46.203 khms3.google.com
-203.208.46.207 labs.google.com
-203.208.46.205 large-uploads.l.google.com
-203.208.46.202 lh2.google.com
-203.208.46.212 lh2.l.google.com
-203.208.46.203 lh3.google.com
-203.208.46.204 lh4.google.com
-203.208.46.205 lh5.google.com
-203.208.46.206 lh6.google.com
-203.208.46.206 linkhelp.clients.google.com
-203.208.46.206 local.google.com
-203.208.46.206 m.google.com
-203.208.46.206 mail.google.com
-203.208.46.201 map.google.com
-203.208.46.202 maps.google.com
-203.208.46.203 maps.l.google.com
-203.208.46.204 maps-api-ssl.google.com
-203.208.46.202 mars.google.com
-203.208.46.202 mobile.l.google.com
-203.208.46.203 mobile-gtalk.l.google.com
-203.208.46.202 mobilemaps.clients.google.com
-203.208.46.202 mt.google.com
-203.208.46.203 mt.l.google.com
-203.208.46.200 mt0.google.com
-203.208.46.201 mt1.google.com
-203.208.46.203 mt2.google.com
-203.208.46.203 mt3.google.com
-203.208.46.204 mtalk.google.com
-203.208.46.200 mts.google.com
-203.208.46.201 mts.l.google.com
-203.208.46.200 mts0.google.com
-203.208.46.201 mts1.google.com
-203.208.46.202 mts2.google.com
-203.208.46.203 mts3.google.com
-203.208.46.204 music.google.com
-203.208.46.205 music-streaming.l.google.com
-203.208.46.201 mw1.google.com
-203.208.46.202 mw2.google.com
-203.208.46.205 news.google.com
-203.208.46.206 news.l.google.com
-203.208.46.205 pack.google.com
-203.208.46.206 photos.google.com
-203.208.46.207 photos-ugc.l.google.com
-203.208.46.201 picasa.google.com
-203.208.46.202 picasaweb.google.com
-203.208.46.203 picasaweb.l.google.com
-203.208.46.206 places.google.com
-203.208.46.207 play.google.com
-203.208.46.206 productforums.google.com
-203.208.46.201 profiles.google.com
-203.208.46.201 reader.google.com
-203.208.46.202 safebrowsing.cache.l.google.com
-203.208.46.203 safebrowsing.clients.google.com
-203.208.46.204 safebrowsing.google.com
-203.208.46.205 safebrowsing-cache.google.com
-203.208.46.206 sandbox.google.com
-203.208.46.201 sb.google.com
-203.208.46.202 sb.l.google.com
-203.208.46.203 sb-ssl.google.com
-203.208.46.204 sb-ssl.l.google.com
-203.208.46.201 scholar.google.com
-203.208.46.202 scholar.l.google.com
-203.208.46.201 script.google.com
-203.208.46.202 services.google.com
-203.208.46.201 sites.google.com
-203.208.46.203 sketchup.google.com
-203.208.46.204 sketchup.l.google.com
-203.208.46.206 spreadsheet.google.com
-203.208.46.207 spreadsheets.google.com
-203.208.46.205 spreadsheets.l.google.com
-203.208.46.200 spreadsheets0.google.com
-203.208.46.201 spreadsheets1.google.com
-203.208.46.202 spreadsheets2.google.com
-203.208.46.203 spreadsheets3.google.com
-203.208.46.204 spreadsheets4.google.com
-203.208.46.205 spreadsheets5.google.com
-203.208.46.206 spreadsheets6.google.com
-203.208.46.207 spreadsheets7.google.com
-203.208.46.208 spreadsheets8.google.com
-203.208.46.209 spreadsheets9.google.com
-203.208.46.210 spreadsheets-china.l.google.com
-203.208.46.201 suggestqueries.google.com
-203.208.46.202 suggestqueries.l.google.com
-203.208.46.203 support.google.com
-203.208.46.206 talkgadget.google.com
-203.208.46.200 tbn0.google.com
-203.208.46.201 tbn1.google.com
-203.208.46.202 tbn2.google.com
-203.208.46.203 tbn3.google.com
-203.208.46.201 toolbar.google.com
-203.208.46.202 toolbarqueries.clients.google.com
-203.208.46.203 toolbarqueries.google.com
-203.208.46.204 toolbarqueries.l.google.com
-203.208.46.206 tools.google.com
-203.208.46.207 tools.l.google.com
-203.208.46.203 translate.google.com
-203.208.46.202 trends.google.com
-203.208.46.203 upload.docs.google.com
-203.208.46.204 upload.drive.google.com
-203.208.46.203 uploads.code.google.com
-203.208.46.204 uploadsj.clients.google.com
-203.208.46.203 video.google.com
-203.208.46.204 video-stats.l.google.com
-203.208.46.203 voice.google.com
-203.208.46.204 wallet.google.com
-203.208.46.201 wifi.google.com
-203.208.46.202 wifi.l.google.com
-203.208.46.202 wire.l.google.com
-203.208.46.201 writely.google.com
-203.208.46.202 writely.l.google.com
-203.208.46.203 writely-china.l.google.com
-203.208.46.204 writely-com.l.google.com
-203.208.46.206 www.google.com
-203.208.46.201 www.l.google.com
-203.208.46.202 www2.l.google.com
-203.208.46.203 www3.l.google.com
-203.208.46.204 www4.l.google.com
-203.208.46.202 ytstatic.l.google.com
-203.208.46.210 0-open-opensocial.googleusercontent.com
-203.208.46.210 0-focus-opensocial.googleusercontent.com
-203.208.46.211 1-focus-opensocial.googleusercontent.com
-203.208.46.211 1-open-opensocial.googleusercontent.com
-203.208.46.211 1-ps.googleusercontent.com
-203.208.46.212 2-focus-opensocial.googleusercontent.com
-203.208.46.212 2-open-opensocial.googleusercontent.com
-203.208.46.212 2-ps.googleusercontent.com
-203.208.46.213 3-focus-opensocial.googleusercontent.com
-203.208.46.213 3-ps.googleusercontent.com
-203.208.46.213 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
-203.208.46.213 3-open-opensocial.googleusercontent.com
-203.208.46.214 4-ps.googleusercontent.com
-203.208.46.214 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
-203.208.46.210 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
-203.208.46.210 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
-203.208.46.210 8kubpeu8314p2efdd7jlv09an9i2ljdo-a-oz-opensocial.googleusercontent.com
-203.208.46.210 adstvca8k2ooaknjjmv89j22n9t676ve-a-oz-opensocial.googleusercontent.com
-203.208.46.210 a-oz-opensocial.googleusercontent.com
-203.208.46.210 blogger.googleusercontent.com
-203.208.46.210 bt26mravu2qpe56n8gnmjnpv2inl84bf-a-oz-opensocial.googleusercontent.com
-203.208.46.211 clients1.googleusercontent.com
-203.208.46.212 clients2.googleusercontent.com
-203.208.46.213 clients3.googleusercontent.com
-203.208.46.214 clients4.googleusercontent.com
-203.208.46.215 clients5.googleusercontent.com
-203.208.46.216 clients6.googleusercontent.com
-203.208.46.217 clients7.googleusercontent.com
-203.208.46.210 code-opensocial.googleusercontent.com
-203.208.46.210 debh8vg7vd93bco3prdajidmm7dhql3f-a-oz-opensocial.googleusercontent.com
-203.208.46.210 doc-00-7o-docs.googleusercontent.com
-203.208.46.211 doc-08-7o-docs.googleusercontent.com
-203.208.46.212 doc-0c-7o-docs.googleusercontent.com
-203.208.46.213 doc-0g-7o-docs.googleusercontent.com
-203.208.46.214 doc-0s-7o-docs.googleusercontent.com
-203.208.46.215 doc-10-7o-docs.googleusercontent.com
-203.208.46.216 doc-14-7o-docs.googleusercontent.com
-203.208.46.210 feedback.googleusercontent.com
-203.208.46.210 googlehosted.l.googleusercontent.com
-203.208.46.210 hsco54a20sh11q9jkmb51ad2n3hmkmrg-a-oz-opensocial.googleusercontent.com
-203.208.46.210 i8brh95qor6r54nkl52hidj2ggcs4jgm-a-oz-opensocial.googleusercontent.com
-203.208.46.211 images1-focus-opensocial.googleusercontent.com
-203.208.46.212 images2-focus-opensocial.googleusercontent.com
-203.208.46.213 images3-focus-opensocial.googleusercontent.com
-203.208.46.214 images4-focus-opensocial.googleusercontent.com
-203.208.46.215 images5-focus-opensocial.googleusercontent.com
-203.208.46.216 images6-focus-opensocial.googleusercontent.com
-203.208.46.217 images7-focus-opensocial.googleusercontent.com
-203.208.46.218 images8-focus-opensocial.googleusercontent.com
-203.208.46.219 images9-focus-opensocial.googleusercontent.com
-203.208.46.209 images-docs-opensocial.googleusercontent.com
-203.208.46.210 k6v18tjr24doa89b55o3na41kn4v73eb-a-oz-opensocial.googleusercontent.com
-203.208.46.211 lh1.googleusercontent.com
-203.208.46.212 lh2.googleusercontent.com
-203.208.46.213 lh3.googleusercontent.com
-203.208.46.214 lh4.googleusercontent.com
-203.208.46.215 lh5.googleusercontent.com
-203.208.46.216 lh6.googleusercontent.com
-203.208.46.210 mail-attachment.googleusercontent.com
-203.208.46.210 music.googleusercontent.com
-203.208.46.210 music-onebox.googleusercontent.com
-203.208.46.210 oauth.googleusercontent.com
-203.208.46.211 ob7f2qc0i50kbjnc81vkhgmb5hsv7a8l-a-oz-opensocial.googleusercontent.com
-203.208.46.212 ode25pfjgmvpquh3b1oqo31ti5ibg5fr-a-calendar.opensocial.googleusercontent.com
-203.208.46.213 qhie5b8u979rnch1q0hqbrmbkn9estf7-a-oz-opensocial.googleusercontent.com
-203.208.46.214 r70rmsn4s0rhk6cehcbbcbfbs31pu0va-a-oz-opensocial.googleusercontent.com
-203.208.46.215 rbjhe237k979f79d87gmenp3gejfonu9-a-oz-opensocial.googleusercontent.com
-203.208.46.211 s1.googleusercontent.com
-203.208.46.212 s2.googleusercontent.com
-203.208.46.212 s3.googleusercontent.com
-203.208.46.214 s4.googleusercontent.com
-203.208.46.215 s5.googleusercontent.com
-203.208.46.216 s6.googleusercontent.com
-203.208.46.217 spreadsheets-opensocial.googleusercontent.com
-203.208.46.210 t.doc-0-0-sj.sj.googleusercontent.com
-203.208.46.210 themes.googleusercontent.com
-203.208.46.210 translate.googleusercontent.com
-203.208.46.211 u807isd5egseeabjccgcns005p2miucq-a-oz-opensocial.googleusercontent.com
-203.208.46.212 upt14k1i2veesusrda9nfotcrbp9d7p5-a-oz-opensocial.googleusercontent.com
-203.208.46.210 webcache.googleusercontent.com
-203.208.46.210 www.googleusercontent.com
-203.208.46.210 www-calendar-opensocial.googleusercontent.com
-203.208.46.210 www-fc-opensocial.googleusercontent.com
-203.208.46.210 www-focus-opensocial.googleusercontent.com
-203.208.46.210 www-gm-opensocial.googleusercontent.com
-203.208.46.210 www-kix-opensocial.googleusercontent.com
-203.208.46.210 www-open-opensocial.googleusercontent.com
-203.208.46.210 www-opensocial.googleusercontent.com
-203.208.46.210 www-opensocial-sandbox.googleusercontent.com
-203.208.46.210 www-oz-opensocial.googleusercontent.com
-203.208.46.215 csi.gstatic.com
-203.208.46.210 g0.gstatic.com
-203.208.46.211 g1.gstatic.com
-203.208.46.212 g2.gstatic.com
-203.208.46.213 g3.gstatic.com
-203.208.46.215 maps.gstatic.com
-203.208.46.210 mt0.gstatic.com
-203.208.46.211 mt1.gstatic.com
-203.208.46.212 mt2.gstatic.com
-203.208.46.213 mt3.gstatic.com
-203.208.46.214 mt4.gstatic.com
-203.208.46.215 mt5.gstatic.com
-203.208.46.216 mt6.gstatic.com
-203.208.46.217 mt7.gstatic.com
-203.208.46.215 ssl.gstatic.com
-203.208.46.210 t0.gstatic.com
-203.208.46.211 t1.gstatic.com
-203.208.46.212 t2.gstatic.com
-203.208.46.213 t3.gstatic.com
-203.208.46.215 www.gstatic.com
-203.208.46.211 lh1.ggpht.com
-203.208.46.212 lh2.ggpht.com
-203.208.46.213 lh3.ggpht.com
-203.208.46.214 lh4.ggpht.com
-203.208.46.215 lh5.ggpht.com
-203.208.46.216 lh6.ggpht.com
-203.208.46.210 nt0.ggpht.com
-203.208.46.211 nt1.ggpht.com
-203.208.46.212 nt2.ggpht.com
-203.208.46.213 nt3.ggpht.com
-203.208.46.214 nt4.ggpht.com
-203.208.46.215 nt5.ggpht.com
-203.208.46.201 appspot.com
-173.194.64.141 chrometophone.appspot.com
-203.208.46.201 evolutionofweb.appspot.com
-203.208.46.201 googcloudlabs.appspot.com
-203.208.46.201 gv-gadget.appspot.com
-203.208.46.201 magnifier.blogspot.com
-203.208.46.201 moderator.appspot.com
-203.208.46.201 newsfeed-dot-latest-dot-rovio-ad-engine.appspot.com
-203.208.46.201 productideas.appspot.com
-203.208.46.201 project-slingshot-gp.appspot.com
-203.208.46.201 r2303.latest.project-slingshot-hr.appspot.com
-203.208.46.202 r3085-dot-latest-dot-project-slingshot-gp.appspot.com
-203.208.46.203 r3091-dot-latest-dot-project-slingshot-gp.appspot.com
-203.208.46.204 r3101-dot-latest-dot-project-slingshot-gp.appspot.com
-203.208.46.205 r3269-dot-latest-dot-project-slingshot-gp.appspot.com
-203.208.46.206 r3432-dot-latest-dot-project-slingshot-hr.appspot.com
-203.208.46.207 r4681-dot-latest-dot-project-slingshot-hr.appspot.com
-203.208.46.208 r7647-dot-latest-dot-project-slingshot-hr.appspot.com
-203.208.46.201 wcproxyx.appspot.com
-203.208.46.201 www.appspot.com
-203.208.46.201 ajax.googleapis.com
-203.208.46.201 chart.googleapis.com
-203.208.46.201 fonts.googleapis.com
-203.208.46.201 maps.googleapis.com
-203.208.46.200 mt0.googleapis.com
-203.208.46.201 mt1.googleapis.com
-203.208.46.202 mt2.googleapis.com
-203.208.46.203 mt3.googleapis.com
-203.208.46.201 redirector-bigcache.googleapis.com
-203.208.46.201 translate.googleapis.com
-203.208.46.201 www.googleapis.com
-203.208.46.201 autoproxy-gfwlist.googlecode.com
-203.208.46.201 chromium.googlecode.com
-203.208.46.201 closure-library.googlecode.com
-203.208.46.201 earth-api-samples.googlecode.com
-203.208.46.201 gmaps-samples-flash.googlecode.com
-203.208.46.201 google-code-feed-gadget.googlecode.com
-
-203.208.46.201 blogsearch.google.cn
-203.208.46.202 ditu.google.cn
-203.208.46.201 gg.google.cn
-203.208.46.201 id.google.cn
-203.208.46.205 maps.gstatic.cn
-203.208.46.206 m.google.cn
-203.208.46.207 mt.google.cn
-203.208.46.200 mt0.google.cn
-203.208.46.201 mt1.google.cn
-203.208.46.202 mt2.google.cn
-203.208.46.203 mt3.google.cn
-203.208.46.206 news.google.cn
-203.208.46.205 scholar.google.cn
-203.208.46.203 translate.google.cn
-203.208.46.201 www.google.cn
-203.208.46.201 www.gstatic.cn
-
-203.208.46.203 accounts.google.com.hk
-203.208.46.204 blogsearch.google.com.hk
-203.208.46.205 books.google.com.hk
-203.208.46.206 clients1.google.com.hk
-203.208.46.207 desktop.google.com.hk
-203.208.46.208 encrypted.google.com.hk
-203.208.46.209 groups.google.com.hk
-203.208.46.210 gxc.google.com.hk
-203.208.46.201 id.google.com.hk
-203.208.46.202 images.google.com.hk
-203.208.46.203 m.google.com.hk
-203.208.46.204 maps.google.com.hk
-203.208.46.205 news.google.com.hk
-203.208.46.206 picasaweb.google.com.hk
-203.208.46.206 plus.url.google.com.hk
-203.208.46.207 scholar.google.com.hk
-203.208.46.201 toolbar.google.com.hk
-203.208.46.202 toolbarqueries.google.com.hk
-203.208.46.203 translate.google.com.hk
-203.208.46.205 wenda.google.com.hk
-
-
-203.208.46.201 android.googlesource.com
-203.208.46.201 auth.keyhole.com
-203.208.46.201 chrome.angrybirds.com
-203.208.46.201 chromium.org
-203.208.46.201 codereview.chromium.org
-203.208.46.201 dev.chromium.org
-203.208.46.201 developer.android.com
-203.208.46.201 developer.chrome.com
-203.208.46.201 domains.googlesyndication.com
-203.208.46.201 earthengine.googlelabs.com
-203.208.46.201 feeds.feedburner.com
-203.208.46.201 g.co
-203.208.46.201 gmail.com
-203.208.46.201 goo.gl
-203.208.46.202 listen.googlelabs.com
-203.208.46.201 m.gmail.com
-203.208.46.201 m.googlemail.com
-203.208.46.201 market.android.com
-203.208.46.203 ngrams.googlelabs.com
-203.208.46.222 ssl.google-analytics.com
-203.208.46.201 www.chromium.org
-203.208.46.201 www.gmail.com
-203.208.46.201 www.googleadservices.com
-203.208.46.222 www.google-analytics.com
-203.208.46.201 www.googlelabs.com
-203.208.46.222 www.googlesource.com
-
-203.208.46.206 plus.google.com
-203.208.46.206 plus.url.google.com
-203.208.46.206 plusone.google.com
-
-#YouTube
-74.125.135.93 accounts.youtube.com
-74.125.135.93 apiblog.youtube.com
-74.125.135.93 clients1.youtube.com
-74.125.135.93 gdata.youtube.com
-74.125.135.93 help.youtube.com
-74.125.135.93 i.ytimg.com
-74.125.135.93 i1.ytimg.com
-74.125.135.93 i2.ytimg.com
-74.125.135.93 i3.ytimg.com
-74.125.135.93 i4.ytimg.com
-74.125.135.93 insight.youtube.com
-74.125.135.93 m.youtube.com
-74.125.135.93 s.youtube.com
-74.125.135.93 s.ytimg.com
-74.125.135.93 www.youtube.com
-173.194.38.166 youtube.com
-74.125.135.116 upload.youtube.com
-173.194.38.166 s.youtube.com
-173.194.38.166 s2.youtube.com
-173.194.38.166 s.ytimg.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache1.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache2.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache3.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache4.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache5.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache6.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache7.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v1.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v2.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v3.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v4.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v5.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v6.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v7.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v8.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v9.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v10.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v11.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v12.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v13.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v14.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v15.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v16.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v17.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v18.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v19.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v20.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v21.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v22.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v23.lscache8.c.youtube.com
-173.194.38.166 o-o.preferred.sjc07s15.v24.lscache8.c.youtube.com
-173.194.38.166 r1.pek01s01.c.youtube.com
-173.194.38.166 r2.pek01s01.c.youtube.com
-173.194.38.166 r3.pek01s01.c.youtube.com
-173.194.38.166 r4.pek01s01.c.youtube.com
-173.194.38.166 r5.pek01s01.c.youtube.com
-173.194.38.166 r6.pek01s01.c.youtube.com
-173.194.38.166 r7.pek01s01.c.youtube.com
-173.194.38.166 r8.pek01s01.c.youtube.com
-173.194.38.166 r9.pek01s01.c.youtube.com
-173.194.38.166 r10.pek01s01.c.youtube.com
-173.194.38.166 r11.pek01s01.c.youtube.com
-173.194.38.166 r12.pek01s01.c.youtube.com
-173.194.38.166 r13.pek01s01.c.youtube.com
-173.194.38.166 r14.pek01s01.c.youtube.com
-173.194.38.166 r15.pek01s01.c.youtube.com
-173.194.38.166 r16.pek01s01.c.youtube.com
-173.194.38.166 r17.pek01s01.c.youtube.com
-173.194.38.166 r18.pek01s01.c.youtube.com
-173.194.38.166 r19.pek01s01.c.youtube.com
-173.194.38.166 r20.pek01s01.c.youtube.com
-173.194.38.166 r21.pek01s01.c.youtube.com
-173.194.38.166 r22.pek01s01.c.youtube.com
-173.194.38.166 r23.pek01s01.c.youtube.com
-173.194.38.166 r24.pek01s01.c.youtube.com
-173.194.38.166 tc.v1.cache1.c.youtube.com
-173.194.38.166 tc.v2.cache1.c.youtube.com
-173.194.38.166 tc.v3.cache1.c.youtube.com
-173.194.38.166 tc.v4.cache1.c.youtube.com
-173.194.38.166 tc.v5.cache1.c.youtube.com
-173.194.38.166 tc.v6.cache1.c.youtube.com
-173.194.38.166 tc.v7.cache1.c.youtube.com
-173.194.38.166 tc.v8.cache1.c.youtube.com
-173.194.38.166 tc.v9.cache1.c.youtube.com
-173.194.38.166 tc.v10.cache1.c.youtube.com
-173.194.38.166 tc.v11.cache1.c.youtube.com
-173.194.38.166 tc.v12.cache1.c.youtube.com
-173.194.38.166 tc.v13.cache1.c.youtube.com
-173.194.38.166 tc.v14.cache1.c.youtube.com
-173.194.38.166 tc.v15.cache1.c.youtube.com
-173.194.38.166 tc.v16.cache1.c.youtube.com
-173.194.38.166 tc.v17.cache1.c.youtube.com
-173.194.38.166 tc.v18.cache1.c.youtube.com
-173.194.38.166 tc.v19.cache1.c.youtube.com
-173.194.38.166 tc.v20.cache1.c.youtube.com
-173.194.38.166 tc.v21.cache1.c.youtube.com
-173.194.38.166 tc.v22.cache1.c.youtube.com
-173.194.38.166 tc.v23.cache1.c.youtube.com
-173.194.38.166 tc.v24.cache1.c.youtube.com
-173.194.38.166 tc.v1.cache2.c.youtube.com
-173.194.38.166 tc.v2.cache2.c.youtube.com
-173.194.38.166 tc.v3.cache2.c.youtube.com
-173.194.38.166 tc.v4.cache2.c.youtube.com
-173.194.38.166 tc.v5.cache2.c.youtube.com
-173.194.38.166 tc.v6.cache2.c.youtube.com
-173.194.38.166 tc.v7.cache2.c.youtube.com
-173.194.38.166 tc.v8.cache2.c.youtube.com
-173.194.38.166 tc.v9.cache2.c.youtube.com
-173.194.38.166 tc.v10.cache2.c.youtube.com
-173.194.38.166 tc.v11.cache2.c.youtube.com
-173.194.38.166 tc.v12.cache2.c.youtube.com
-173.194.38.166 tc.v13.cache2.c.youtube.com
-173.194.38.166 tc.v14.cache2.c.youtube.com
-173.194.38.166 tc.v15.cache2.c.youtube.com
-173.194.38.166 tc.v16.cache2.c.youtube.com
-173.194.38.166 tc.v17.cache2.c.youtube.com
-173.194.38.166 tc.v18.cache2.c.youtube.com
-173.194.38.166 tc.v19.cache2.c.youtube.com
-173.194.38.166 tc.v20.cache2.c.youtube.com
-173.194.38.166 tc.v21.cache2.c.youtube.com
-173.194.38.166 tc.v22.cache2.c.youtube.com
-173.194.38.166 tc.v23.cache2.c.youtube.com
-173.194.38.166 tc.v24.cache2.c.youtube.com
-173.194.38.166 tc.v1.cache3.c.youtube.com
-173.194.38.166 tc.v2.cache3.c.youtube.com
-173.194.38.166 tc.v3.cache3.c.youtube.com
-173.194.38.166 tc.v4.cache3.c.youtube.com
-173.194.38.166 tc.v5.cache3.c.youtube.com
-173.194.38.166 tc.v6.cache3.c.youtube.com
-173.194.38.166 tc.v7.cache3.c.youtube.com
-173.194.38.166 tc.v8.cache3.c.youtube.com
-173.194.38.166 tc.v9.cache3.c.youtube.com
-173.194.38.166 tc.v10.cache3.c.youtube.com
-173.194.38.166 tc.v11.cache3.c.youtube.com
-173.194.38.166 tc.v12.cache3.c.youtube.com
-173.194.38.166 tc.v13.cache3.c.youtube.com
-173.194.38.166 tc.v14.cache3.c.youtube.com
-173.194.38.166 tc.v15.cache3.c.youtube.com
-173.194.38.166 tc.v16.cache3.c.youtube.com
-173.194.38.166 tc.v17.cache3.c.youtube.com
-173.194.38.166 tc.v18.cache3.c.youtube.com
-173.194.38.166 tc.v19.cache3.c.youtube.com
-173.194.38.166 tc.v20.cache3.c.youtube.com
-173.194.38.166 tc.v21.cache3.c.youtube.com
-173.194.38.166 tc.v22.cache3.c.youtube.com
-173.194.38.166 tc.v23.cache3.c.youtube.com
-173.194.38.166 tc.v24.cache3.c.youtube.com
-173.194.38.166 tc.v1.cache4.c.youtube.com
-173.194.38.166 tc.v2.cache4.c.youtube.com
-173.194.38.166 tc.v3.cache4.c.youtube.com
-173.194.38.166 tc.v4.cache4.c.youtube.com
-173.194.38.166 tc.v5.cache4.c.youtube.com
-173.194.38.166 tc.v6.cache4.c.youtube.com
-173.194.38.166 tc.v7.cache4.c.youtube.com
-173.194.38.166 tc.v8.cache4.c.youtube.com
-173.194.38.166 tc.v9.cache4.c.youtube.com
-173.194.38.166 tc.v10.cache4.c.youtube.com
-173.194.38.166 tc.v11.cache4.c.youtube.com
-173.194.38.166 tc.v12.cache4.c.youtube.com
-173.194.38.166 tc.v13.cache4.c.youtube.com
-173.194.38.166 tc.v14.cache4.c.youtube.com
-173.194.38.166 tc.v15.cache4.c.youtube.com
-173.194.38.166 tc.v16.cache4.c.youtube.com
-173.194.38.166 tc.v17.cache4.c.youtube.com
-173.194.38.166 tc.v18.cache4.c.youtube.com
-173.194.38.166 tc.v19.cache4.c.youtube.com
-173.194.38.166 tc.v20.cache4.c.youtube.com
-173.194.38.166 tc.v21.cache4.c.youtube.com
-173.194.38.166 tc.v22.cache4.c.youtube.com
-173.194.38.166 tc.v23.cache4.c.youtube.com
-173.194.38.166 tc.v24.cache4.c.youtube.com
-173.194.38.166 tc.v1.cache5.c.youtube.com
-173.194.38.166 tc.v2.cache5.c.youtube.com
-173.194.38.166 tc.v3.cache5.c.youtube.com
-173.194.38.166 tc.v4.cache5.c.youtube.com
-173.194.38.166 tc.v5.cache5.c.youtube.com
-173.194.38.166 tc.v6.cache5.c.youtube.com
-173.194.38.166 tc.v7.cache5.c.youtube.com
-173.194.38.166 tc.v8.cache5.c.youtube.com
-173.194.38.166 tc.v9.cache5.c.youtube.com
-173.194.38.166 tc.v10.cache5.c.youtube.com
-173.194.38.166 tc.v11.cache5.c.youtube.com
-173.194.38.166 tc.v12.cache5.c.youtube.com
-173.194.38.166 tc.v13.cache5.c.youtube.com
-173.194.38.166 tc.v14.cache5.c.youtube.com
-173.194.38.166 tc.v15.cache5.c.youtube.com
-173.194.38.166 tc.v16.cache5.c.youtube.com
-173.194.38.166 tc.v17.cache5.c.youtube.com
-173.194.38.166 tc.v18.cache5.c.youtube.com
-173.194.38.166 tc.v19.cache5.c.youtube.com
-173.194.38.166 tc.v20.cache5.c.youtube.com
-173.194.38.166 tc.v21.cache5.c.youtube.com
-173.194.38.166 tc.v22.cache5.c.youtube.com
-173.194.38.166 tc.v23.cache5.c.youtube.com
-173.194.38.166 tc.v24.cache5.c.youtube.com
-173.194.38.166 tc.v1.cache6.c.youtube.com
-173.194.38.166 tc.v2.cache6.c.youtube.com
-173.194.38.166 tc.v3.cache6.c.youtube.com
-173.194.38.166 tc.v4.cache6.c.youtube.com
-173.194.38.166 tc.v5.cache6.c.youtube.com
-173.194.38.166 tc.v6.cache6.c.youtube.com
-173.194.38.166 tc.v7.cache6.c.youtube.com
-173.194.38.166 tc.v8.cache6.c.youtube.com
-173.194.38.166 tc.v9.cache6.c.youtube.com
-173.194.38.166 tc.v10.cache6.c.youtube.com
-173.194.38.166 tc.v11.cache6.c.youtube.com
-173.194.38.166 tc.v12.cache6.c.youtube.com
-173.194.38.166 tc.v13.cache6.c.youtube.com
-173.194.38.166 tc.v14.cache6.c.youtube.com
-173.194.38.166 tc.v15.cache6.c.youtube.com
-173.194.38.166 tc.v16.cache6.c.youtube.com
-173.194.38.166 tc.v17.cache6.c.youtube.com
-173.194.38.166 tc.v18.cache6.c.youtube.com
-173.194.38.166 tc.v19.cache6.c.youtube.com
-173.194.38.166 tc.v20.cache6.c.youtube.com
-173.194.38.166 tc.v21.cache6.c.youtube.com
-173.194.38.166 tc.v22.cache6.c.youtube.com
-173.194.38.166 tc.v23.cache6.c.youtube.com
-173.194.38.166 tc.v24.cache6.c.youtube.com
-173.194.38.166 tc.v1.cache7.c.youtube.com
-173.194.38.166 tc.v2.cache7.c.youtube.com
-173.194.38.166 tc.v3.cache7.c.youtube.com
-173.194.38.166 tc.v4.cache7.c.youtube.com
-173.194.38.166 tc.v5.cache7.c.youtube.com
-173.194.38.166 tc.v6.cache7.c.youtube.com
-173.194.38.166 tc.v7.cache7.c.youtube.com
-173.194.38.166 tc.v8.cache7.c.youtube.com
-173.194.38.166 tc.v9.cache7.c.youtube.com
-173.194.38.166 tc.v10.cache7.c.youtube.com
-173.194.38.166 tc.v11.cache7.c.youtube.com
-173.194.38.166 tc.v12.cache7.c.youtube.com
-173.194.38.166 tc.v13.cache7.c.youtube.com
-173.194.38.166 tc.v14.cache7.c.youtube.com
-173.194.38.166 tc.v15.cache7.c.youtube.com
-173.194.38.166 tc.v16.cache7.c.youtube.com
-173.194.38.166 tc.v17.cache7.c.youtube.com
-173.194.38.166 tc.v18.cache7.c.youtube.com
-173.194.38.166 tc.v19.cache7.c.youtube.com
-173.194.38.166 tc.v20.cache7.c.youtube.com
-173.194.38.166 tc.v21.cache7.c.youtube.com
-173.194.38.166 tc.v22.cache7.c.youtube.com
-173.194.38.166 tc.v23.cache7.c.youtube.com
-173.194.38.166 tc.v24.cache7.c.youtube.com
-173.194.38.166 tc.v1.cache8.c.youtube.com
-173.194.38.166 tc.v2.cache8.c.youtube.com
-173.194.38.166 tc.v3.cache8.c.youtube.com
-173.194.38.166 tc.v4.cache8.c.youtube.com
-173.194.38.166 tc.v5.cache8.c.youtube.com
-173.194.38.166 tc.v6.cache8.c.youtube.com
-173.194.38.166 tc.v7.cache8.c.youtube.com
-173.194.38.166 tc.v8.cache8.c.youtube.com
-173.194.38.166 tc.v9.cache8.c.youtube.com
-173.194.38.166 tc.v10.cache8.c.youtube.com
-173.194.38.166 tc.v11.cache8.c.youtube.com
-173.194.38.166 tc.v12.cache8.c.youtube.com
-173.194.38.166 tc.v13.cache8.c.youtube.com
-173.194.38.166 tc.v14.cache8.c.youtube.com
-173.194.38.166 tc.v15.cache8.c.youtube.com
-173.194.38.166 tc.v16.cache8.c.youtube.com
-173.194.38.166 tc.v17.cache8.c.youtube.com
-173.194.38.166 tc.v18.cache8.c.youtube.com
-173.194.38.166 tc.v19.cache8.c.youtube.com
-173.194.38.166 tc.v20.cache8.c.youtube.com
-173.194.38.166 tc.v21.cache8.c.youtube.com
-173.194.38.166 tc.v22.cache8.c.youtube.com
-173.194.38.166 tc.v23.cache8.c.youtube.com
-173.194.38.166 tc.v24.cache8.c.youtube.com
-173.194.38.166 v1.lscache1.c.youtube.com
-173.194.38.166 v2.lscache1.c.youtube.com
-173.194.38.166 v3.lscache1.c.youtube.com
-173.194.38.166 v4.lscache1.c.youtube.com
-173.194.38.166 v5.lscache1.c.youtube.com
-173.194.38.166 v6.lscache1.c.youtube.com
-173.194.38.166 v7.lscache1.c.youtube.com
-173.194.38.166 v8.lscache1.c.youtube.com
-173.194.38.166 v9.lscache1.c.youtube.com
-173.194.38.166 v10.lscache1.c.youtube.com
-173.194.38.166 v11.lscache1.c.youtube.com
-173.194.38.166 v12.lscache1.c.youtube.com
-173.194.38.166 v13.lscache1.c.youtube.com
-173.194.38.166 v14.lscache1.c.youtube.com
-173.194.38.166 v15.lscache1.c.youtube.com
-173.194.38.166 v16.lscache1.c.youtube.com
-173.194.38.166 v17.lscache1.c.youtube.com
-173.194.38.166 v18.lscache1.c.youtube.com
-173.194.38.166 v19.lscache1.c.youtube.com
-173.194.38.166 v20.lscache1.c.youtube.com
-173.194.38.166 v21.lscache1.c.youtube.com
-173.194.38.166 v22.lscache1.c.youtube.com
-173.194.38.166 v23.lscache1.c.youtube.com
-173.194.38.166 v24.lscache1.c.youtube.com
-173.194.38.166 v1.lscache2.c.youtube.com
-173.194.38.166 v2.lscache2.c.youtube.com
-173.194.38.166 v3.lscache2.c.youtube.com
-173.194.38.166 v4.lscache2.c.youtube.com
-173.194.38.166 v5.lscache2.c.youtube.com
-173.194.38.166 v6.lscache2.c.youtube.com
-173.194.38.166 v7.lscache2.c.youtube.com
-173.194.38.166 v8.lscache2.c.youtube.com
-173.194.38.166 v9.lscache2.c.youtube.com
-173.194.38.166 v10.lscache2.c.youtube.com
-173.194.38.166 v11.lscache2.c.youtube.com
-173.194.38.166 v12.lscache2.c.youtube.com
-173.194.38.166 v13.lscache2.c.youtube.com
-173.194.38.166 v14.lscache2.c.youtube.com
-173.194.38.166 v15.lscache2.c.youtube.com
-173.194.38.166 v16.lscache2.c.youtube.com
-173.194.38.166 v17.lscache2.c.youtube.com
-173.194.38.166 v18.lscache2.c.youtube.com
-173.194.38.166 v19.lscache2.c.youtube.com
-173.194.38.166 v20.lscache2.c.youtube.com
-173.194.38.166 v21.lscache2.c.youtube.com
-173.194.38.166 v22.lscache2.c.youtube.com
-173.194.38.166 v23.lscache2.c.youtube.com
-173.194.38.166 v24.lscache2.c.youtube.com
-173.194.38.166 v1.lscache3.c.youtube.com
-173.194.38.166 v2.lscache3.c.youtube.com
-173.194.38.166 v3.lscache3.c.youtube.com
-173.194.38.166 v4.lscache3.c.youtube.com
-173.194.38.166 v5.lscache3.c.youtube.com
-173.194.38.166 v6.lscache3.c.youtube.com
-173.194.38.166 v7.lscache3.c.youtube.com
-173.194.38.166 v8.lscache3.c.youtube.com
-173.194.38.166 v9.lscache3.c.youtube.com
-173.194.38.166 v10.lscache3.c.youtube.com
-173.194.38.166 v11.lscache3.c.youtube.com
-173.194.38.166 v12.lscache3.c.youtube.com
-173.194.38.166 v13.lscache3.c.youtube.com
-173.194.38.166 v14.lscache3.c.youtube.com
-173.194.38.166 v15.lscache3.c.youtube.com
-173.194.38.166 v16.lscache3.c.youtube.com
-173.194.38.166 v17.lscache3.c.youtube.com
-173.194.38.166 v18.lscache3.c.youtube.com
-173.194.38.166 v19.lscache3.c.youtube.com
-173.194.38.166 v20.lscache3.c.youtube.com
-173.194.38.166 v21.lscache3.c.youtube.com
-173.194.38.166 v22.lscache3.c.youtube.com
-173.194.38.166 v23.lscache3.c.youtube.com
-173.194.38.166 v24.lscache3.c.youtube.com
-173.194.38.166 v1.lscache4.c.youtube.com
-173.194.38.166 v2.lscache4.c.youtube.com
-173.194.38.166 v3.lscache4.c.youtube.com
-173.194.38.166 v4.lscache4.c.youtube.com
-173.194.38.166 v5.lscache4.c.youtube.com
-173.194.38.166 v6.lscache4.c.youtube.com
-173.194.38.166 v7.lscache4.c.youtube.com
-173.194.38.166 v8.lscache4.c.youtube.com
-173.194.38.166 v9.lscache4.c.youtube.com
-173.194.38.166 v10.lscache4.c.youtube.com
-173.194.38.166 v11.lscache4.c.youtube.com
-173.194.38.166 v12.lscache4.c.youtube.com
-173.194.38.166 v13.lscache4.c.youtube.com
-173.194.38.166 v14.lscache4.c.youtube.com
-173.194.38.166 v15.lscache4.c.youtube.com
-173.194.38.166 v16.lscache4.c.youtube.com
-173.194.38.166 v17.lscache4.c.youtube.com
-173.194.38.166 v18.lscache4.c.youtube.com
-173.194.38.166 v19.lscache4.c.youtube.com
-173.194.38.166 v20.lscache4.c.youtube.com
-173.194.38.166 v21.lscache4.c.youtube.com
-173.194.38.166 v22.lscache4.c.youtube.com
-173.194.38.166 v23.lscache4.c.youtube.com
-173.194.38.166 v24.lscache4.c.youtube.com
-173.194.38.166 v1.lscache5.c.youtube.com
-173.194.38.166 v2.lscache5.c.youtube.com
-173.194.38.166 v3.lscache5.c.youtube.com
-173.194.38.166 v4.lscache5.c.youtube.com
-173.194.38.166 v5.lscache5.c.youtube.com
-173.194.38.166 v6.lscache5.c.youtube.com
-173.194.38.166 v7.lscache5.c.youtube.com
-173.194.38.166 v8.lscache5.c.youtube.com
-173.194.38.166 v9.lscache5.c.youtube.com
-173.194.38.166 v10.lscache5.c.youtube.com
-173.194.38.166 v11.lscache5.c.youtube.com
-173.194.38.166 v12.lscache5.c.youtube.com
-173.194.38.166 v13.lscache5.c.youtube.com
-173.194.38.166 v14.lscache5.c.youtube.com
-173.194.38.166 v15.lscache5.c.youtube.com
-173.194.38.166 v16.lscache5.c.youtube.com
-173.194.38.166 v17.lscache5.c.youtube.com
-173.194.38.166 v18.lscache5.c.youtube.com
-173.194.38.166 v19.lscache5.c.youtube.com
-173.194.38.166 v20.lscache5.c.youtube.com
-173.194.38.166 v21.lscache5.c.youtube.com
-173.194.38.166 v22.lscache5.c.youtube.com
-173.194.38.166 v23.lscache5.c.youtube.com
-173.194.38.166 v24.lscache5.c.youtube.com
-173.194.38.166 v1.lscache6.c.youtube.com
-173.194.38.166 v2.lscache6.c.youtube.com
-173.194.38.166 v3.lscache6.c.youtube.com
-173.194.38.166 v4.lscache6.c.youtube.com
-173.194.38.166 v5.lscache6.c.youtube.com
-173.194.38.166 v6.lscache6.c.youtube.com
-173.194.38.166 v7.lscache6.c.youtube.com
-173.194.38.166 v8.lscache6.c.youtube.com
-173.194.38.166 v9.lscache6.c.youtube.com
-173.194.38.166 v10.lscache6.c.youtube.com
-173.194.38.166 v11.lscache6.c.youtube.com
-173.194.38.166 v12.lscache6.c.youtube.com
-173.194.38.166 v13.lscache6.c.youtube.com
-173.194.38.166 v14.lscache6.c.youtube.com
-173.194.38.166 v15.lscache6.c.youtube.com
-173.194.38.166 v16.lscache6.c.youtube.com
-173.194.38.166 v17.lscache6.c.youtube.com
-173.194.38.166 v18.lscache6.c.youtube.com
-173.194.38.166 v19.lscache6.c.youtube.com
-173.194.38.166 v20.lscache6.c.youtube.com
-173.194.38.166 v21.lscache6.c.youtube.com
-173.194.38.166 v22.lscache6.c.youtube.com
-173.194.38.166 v23.lscache6.c.youtube.com
-173.194.38.166 v24.lscache6.c.youtube.com
-173.194.38.166 v1.lscache7.c.youtube.com
-173.194.38.166 v2.lscache7.c.youtube.com
-173.194.38.166 v3.lscache7.c.youtube.com
-173.194.38.166 v4.lscache7.c.youtube.com
-173.194.38.166 v5.lscache7.c.youtube.com
-173.194.38.166 v6.lscache7.c.youtube.com
-173.194.38.166 v7.lscache7.c.youtube.com
-173.194.38.166 v8.lscache7.c.youtube.com
-173.194.38.166 v9.lscache7.c.youtube.com
-173.194.38.166 v10.lscache7.c.youtube.com
-173.194.38.166 v11.lscache7.c.youtube.com
-173.194.38.166 v12.lscache7.c.youtube.com
-173.194.38.166 v13.lscache7.c.youtube.com
-173.194.38.166 v14.lscache7.c.youtube.com
-173.194.38.166 v15.lscache7.c.youtube.com
-173.194.38.166 v16.lscache7.c.youtube.com
-173.194.38.166 v17.lscache7.c.youtube.com
-173.194.38.166 v18.lscache7.c.youtube.com
-173.194.38.166 v19.lscache7.c.youtube.com
-173.194.38.166 v20.lscache7.c.youtube.com
-173.194.38.166 v21.lscache7.c.youtube.com
-173.194.38.166 v22.lscache7.c.youtube.com
-173.194.38.166 v23.lscache7.c.youtube.com
-173.194.38.166 v24.lscache7.c.youtube.com
-173.194.38.166 v1.lscache8.c.youtube.com
-173.194.38.166 v2.lscache8.c.youtube.com
-173.194.38.166 v3.lscache8.c.youtube.com
-173.194.38.166 v4.lscache8.c.youtube.com
-173.194.38.166 v5.lscache8.c.youtube.com
-173.194.38.166 v6.lscache8.c.youtube.com
-173.194.38.166 v7.lscache8.c.youtube.com
-173.194.38.166 v8.lscache8.c.youtube.com
-173.194.38.166 v9.lscache8.c.youtube.com
-173.194.38.166 v10.lscache8.c.youtube.com
-173.194.38.166 v11.lscache8.c.youtube.com
-173.194.38.166 v12.lscache8.c.youtube.com
-173.194.38.166 v13.lscache8.c.youtube.com
-173.194.38.166 v14.lscache8.c.youtube.com
-173.194.38.166 v15.lscache8.c.youtube.com
-173.194.38.166 v16.lscache8.c.youtube.com
-173.194.38.166 v17.lscache8.c.youtube.com
-173.194.38.166 v18.lscache8.c.youtube.com
-173.194.38.166 v19.lscache8.c.youtube.com
-173.194.38.166 v20.lscache8.c.youtube.com
-173.194.38.166 v21.lscache8.c.youtube.com
-173.194.38.166 v22.lscache8.c.youtube.com
-173.194.38.166 v23.lscache8.c.youtube.com
-173.194.38.166 v24.lscache8.c.youtube.com
-
-#facebook
-118.215.189.177 s-static.ak.facebook.net
-184.85.66.110 s-static.ak.facebook.com 
-208.46.163.41 profile.ak.facebook.com 
-63.110.246.49 static.ak.facebook.com 
-165.254.42.83 b.static.ak.facebook.com
-66.220.149.99 graph.facebook.com 
-69.171.228.76 ssl.facebook.com 
-69.171.234.22 api.facebook.com 
-66.220.151.32 secure-profile.facebook.com 
-69.63.188.59 secure.facebook.com 
-69.171.228.76 zh-CN.facebook.com 
-69.171.237.20 login.facebook.com 
-69.171.224.35 m.facebook.com 
-66.220.147.90 touch.facebook.com 
-69.171.237.20 facebook.com 
-69.171.237.20 www.facebook.com 
-69.171.228.72 apps.facebook.com 
-198.87.182.145 profile.ak.fbcdn.net 
-63.238.2.161 vthumb.ak.fbcdn.net 
-198.87.182.224 photos-a.ak.fbcdn.net 
-198.87.182.152 photos-b.ak.fbcdn.net 
-198.87.182.217 photos-c.ak.fbcdn.net 
-198.87.182.161 photos-d.ak.fbcdn.net 
-198.87.182.201 photos-e.ak.fbcdn.net 
-63.110.246.24 photos-f.ak.fbcdn.net 
-64.212.100.107 photos-g.ak.fbcdn.net 
-63.110.246.8 photos-h.ak.fbcdn.net 
-63.110.246.74 creative.ak.fbcdn.net 
-69.171.234.21 fbcdn.net 
-208.49.52.40 external.ak.fbcdn.net 
-208.49.52.11 b.static.ak.fbcdn.net 
-208.49.52.11 static.ak.fbcdn.net 
-66.220.149.92 upload.facebook.com 
-69.171.228.72 developers.facebook.com
-
-#Twitter
-199.59.149.243 oauth.twitter.com 
-199.59.149.243 twitter.com 
-199.59.149.243 www.twitter.com 
-199.59.149.243 mobile.twitter.com 
-199.59.149.243 api.twitter.com 
-199.59.148.201 search.twitter.com 
-199.59.148.139 userstream.twitter.com 
-199.59.149.243 ssl.twitter.com 
-199.59.149.243 status.twitter.com 
-199.59.149.243 assets0.twitter.com 
-199.59.149.243 assets1.twitter.com 
-199.59.149.243 assets2.twitter.com 
-199.59.149.243 assets3.twitter.com 
-199.59.149.243 static.twitter.com 
-184.29.36.124 platform.twitter.com 
-219.76.10.138 platform0.twitter.com 
-199.59.148.206 help.twitter.com 
-199.59.148.206 support.twitter.com 
-209.84.4.102 si0.twimg.com 
-209.84.4.102 si1.twimg.com 
-209.84.4.102 si2.twimg.com 
-209.84.4.102 si3.twimg.com 
-209.84.4.102 si4.twimg.com 
-209.84.4.102 si5.twimg.com 
-199.59.149.243 upload.twitter.com #twitter 
-199.59.149.210 t.co #twitter
-
-#Dropbox
-=======
 #Apple Services
 203.69.113.128 adcdownload.apple.com
 203.69.113.128 deimos3.apple.com
@@ -1339,7 +99,6 @@ fe80::1%lo0	localhost
 2001:470:7b:99::2 soutong.iloveyou
 #DropBox
 50.17.206.117 dl-web.dropbox.com
->>>>>>> updata hosts
 199.47.217.179 dropbox.com
 199.47.216.170 www.dropbox.com
 174.36.51.42 forums.dropbox.com
@@ -1540,7 +299,7 @@ fe80::1%lo0	localhost
 208.80.152.201 zh.wikisource.org
 208.80.152.201 zh.wiktionary.org
 208.80.152.211 upload.wikimedia.org
-@ÃÅ»§ºÍ³£ÓÃÍøÕ¾
+@门户和常用网站
 #GoogleAdWord
 127.0.0.1 adwords.google.com
 127.0.0.1 adwords.google.sk
@@ -1803,7 +562,7 @@ fe80::1%lo0	localhost
 127.0.0.1 mobileads.google.com
 127.0.0.1 mobwin.android.com
 127.0.0.1 p4-fgz4grek4mwv6-bbntrmhnnmf3q4vm-if-v6exp3-v4.metric.gstatic.com
-#°Ù¶È¹ã¸æÁªÃË
+#百度广告联盟
 127.0.0.1 a.baidu.com
 127.0.0.1 adm.baidu.com
 127.0.0.1 baidutv.baidu.com
@@ -1855,7 +614,7 @@ fe80::1%lo0	localhost
 127.0.0.1 utk.baidu.com
 127.0.0.1 wangmeng.baidu.com
 127.0.0.1 wm.baidu.com
-#°¢Àï¹ã¸æÁªÃË
+#阿里广告联盟
 127.0.0.1 a.alimama.cn
 127.0.0.1 bm.alimama.cn
 127.0.0.1 bmvip.alimama.cn
@@ -1908,7 +667,7 @@ fe80::1%lo0	localhost
 127.0.0.1 taobaoafp.allyes.cn
 127.0.0.1 taobaoafp.allyes.com
 127.0.0.1 img.uu1001.cn
-#ÐÂÀËÍø
+#新浪网
 127.0.0.1 adimg.mobile.sina.cn
 127.0.0.1 c.biz.weibo.com
 127.0.0.1 all.vic.sina.com.cn
@@ -1960,7 +719,7 @@ fe80::1%lo0	localhost
 127.0.0.1 rm.ra.icast.cn
 127.0.0.1 track.ra.icast.cn
 127.0.0.1 track2.ra.icast.cn
-#ÍøÒ×163
+#网易163
 127.0.0.1 analytics.ws.126.net
 127.0.0.1 img1.126.net
 127.0.0.1 img2.126.net
@@ -1985,7 +744,7 @@ fe80::1%lo0	localhost
 127.0.0.1 proimg.163.com
 127.0.0.1 ud.blog.163.com
 127.0.0.1 union.163.com
-#ÓÐµÀËÑË÷
+#有道搜索
 127.0.0.1 a.youdao.com
 127.0.0.1 clkservice.mail.youdao.com
 127.0.0.1 clkservice.union.youdao.com
@@ -2001,7 +760,7 @@ fe80::1%lo0	localhost
 127.0.0.1 union.youdao.com
 127.0.0.1 adpublish.ydstatic.com
 127.0.0.1 oimageb2.ydstatic.com
-#ÌÚÑ¶QQ
+#腾讯QQ
 127.0.0.1 upload_data.qq.com
 127.0.0.1 ad.qq.com
 127.0.0.1 adping.qq.com
@@ -2060,17 +819,17 @@ fe80::1%lo0	localhost
 127.0.0.1 p3.l.qq.com
 127.0.0.1 dp3.qq.com
 127.0.0.1 ls.l.qq.com
-#ËÑËÑ
+#搜搜
 127.0.0.1 dr.soso.com
 127.0.0.1 jzclick.soso.com
 127.0.0.1 pingfore.soso.com
 127.0.0.1 v3.toolbar.soso.com
 127.0.0.1 toolbar.soso.com
-#¹·¹·ËÑË÷
+#狗狗搜索
 127.0.0.1 s.gougou.com
 127.0.0.1 un.so.gougou.com
 127.0.0.1 www.155.com
-#Ñ¸À×¿´¿´
+#迅雷看看
 127.0.0.1 imghub5pr.sandai.net
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5c.sandai.net
@@ -2141,7 +900,7 @@ fe80::1%lo0	localhost
 127.0.0.1 websts.xunlei.com
 127.0.0.1 wy.xunlei.com
 127.0.0.1 xmlconf.client.xunlei.com
-#ËÑºü
+#搜狐
 127.0.0.1 ad.mail.sohu.com
 127.0.0.1 adclick.bai.sohu.com
 127.0.0.1 adnet.sohu.com
@@ -2169,7 +928,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sohu.ad-plus.cn
 127.0.0.1 u.ad-plus.cn
 127.0.0.1 sohu.datamaster.com.cn
-#ËÑ¹·
+#搜狗
 127.0.0.1 a1click.cpc.sogou.com
 127.0.0.1 adsence.sogou.com
 127.0.0.1 alpha.brand.sogou.com
@@ -2195,7 +954,7 @@ fe80::1%lo0	localhost
 127.0.0.1 sy.brand.sogou.com
 127.0.0.1 union.sogou.com
 127.0.0.1 wb.brand.sogou.com
-#½ðÉ½ÔÚÏß
+#金山在线
 127.0.0.1 kinfo.wps.cn
 127.0.0.1 db.union.download.kingsoft.com
 127.0.0.1 push.db.kingsoft.com
@@ -2203,7 +962,7 @@ fe80::1%lo0	localhost
 127.0.0.1 union.jx2.kingsoft.com
 127.0.0.1 union.kingsoft.com
 127.0.0.1 union.wps.kingsoft.com
-@ÃÅ»§ºÍ³£ÓÃÍøÕ¾/Microsoft AD
+@门户和常用网站/Microsoft AD
 #Adbureau
 127.0.0.1 ad101com-images.adbureau.net
 127.0.0.1 ad101com.adbureau.net
@@ -2360,7 +1119,7 @@ fe80::1%lo0	localhost
 127.0.0.1 spd.netconversions.com
 127.0.0.1 madserver.net
 127.0.0.1 ads.msn.com.nsatc.net
-@ÃÅ»§ºÍ³£ÓÃÍøÕ¾/Yahoo!
+@门户和常用网站/Yahoo!
 #Adinterax
 127.0.0.1 adinterax.com
 127.0.0.1 mi.adinterax.com
@@ -2684,7 +1443,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.rightmedia.com
 127.0.0.1 www.yfdmedia.com
 127.0.0.1 ym.bannerconnect.net
-@HostsX º£ÍâÕ¾µã¹ã¸æ
+@HostsX 海外站点广告
 #BNet
 127.0.0.1 bwp.bnet.com
 127.0.0.1 mads.bnet.com
@@ -2942,9 +1701,9 @@ fe80::1%lo0	localhost
 127.0.0.1 ads.miniclip.com
 127.0.0.1 ads.ttv.com.tw
 127.0.0.1 drd.hauchi.com.tw
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÉçÇøÀàÍøÕ¾
-#ÌìÑÄÉçÇø
+@HostsX 国内站点广告
+@HostsX 国内站点广告/社区类网站
+#天涯社区
 127.0.0.1 801.tianya.cn
 127.0.0.1 803.tianya.cn
 127.0.0.1 806.tianya.cn
@@ -2957,13 +1716,13 @@ fe80::1%lo0	localhost
 127.0.0.1 urchin.tianya.cn
 127.0.0.1 801.tianyaui.com
 127.0.0.1 click.tianyaui.com
-#¿­µÏÍø
+#凯迪网
 127.0.0.1 panda.kdnet.net
 127.0.0.1 tracking.kdnet.net
 127.0.0.1 super.kdnet.net
-#¿ªÐÄÍø
+#开心网
 127.0.0.1 m222034.kaixin001.com
-#Ææ»¢ÉçÇø
+#奇虎社区
 127.0.0.1 aimg.qihoo.com
 127.0.0.1 clkstat.qihoo.com
 127.0.0.1 code.qihoo.com
@@ -2973,7 +1732,7 @@ fe80::1%lo0	localhost
 127.0.0.1 qd.code.qihoo.com
 127.0.0.1 rd.qihoo.com
 127.0.0.1 union.qihoo.com
-#Ã¨ÆËÍø
+#猫扑网
 127.0.0.1 g.mop.com
 127.0.0.1 gg.mop.com
 127.0.0.1 imgpub.mop.com
@@ -2994,7 +1753,7 @@ fe80::1%lo0	localhost
 127.0.0.1 yx.mop.com
 127.0.0.1 union.uume.com
 127.0.0.1 jh.uume.com
-#ÈËÈËÍø
+#人人网
 127.0.0.1 c.renren.com
 127.0.0.1 click.jebe.renren.com
 127.0.0.1 cupid.jebe.renren.com
@@ -3008,22 +1767,22 @@ fe80::1%lo0	localhost
 127.0.0.1 shaft.jebe.renren.com
 127.0.0.1 track.yx.renren.com
 127.0.0.1 jebe.xnimg.cn
-#ÌúÑªÍø
+#铁血网
 127.0.0.1 ads.tiexue.net
 127.0.0.1 x.itiexue.net
 #VeryCD
 127.0.0.1 sp.vcimg.com
 127.0.0.1 sponsor.verycd.com
-#Î÷Â½Íø
+#西陆网
 127.0.0.1 a.xilu.com
 127.0.0.1 stat.xilu.com
 127.0.0.1 test.xilu.com
-#´óÆìÍø
+#大旗网
 127.0.0.1 adcount.yoka.com
 127.0.0.1 gg.daqi.com
 127.0.0.1 log.daqi.com
 127.0.0.1 union.daqi.com
-#Î÷ìôºúÍ¬
+#西祠胡同
 127.0.0.1 ad.xici.net
 127.0.0.1 data.xici.net
 #5d6d
@@ -3044,116 +1803,116 @@ fe80::1%lo0	localhost
 #51.com
 127.0.0.1 union.51.com
 127.0.0.1 v3.apic.51.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/Ð¡ËµÀàÍøÕ¾
-#ÆðµãÖÐÎÄÍø
+@HostsX 国内站点广告/小说类网站
+#起点中文网
 127.0.0.1 s1.cmfu.com
 127.0.0.1 avd.qidian.com
 127.0.0.1 qidian.adsame.com
 127.0.0.1 o.if.qidian.com
 127.0.0.1 uedas.qidian.com
-#Ò»Æð¿´Ð¡Ëµ
+#一起看小说
 127.0.0.1 ad.17k.com
 127.0.0.1 log.17k.com
 127.0.0.1 stat.17k.com
-#ÖðÀËÍø
+#逐浪网
 127.0.0.1 adgame.zhulang.com
 127.0.0.1 images2.zhulang.com
 127.0.0.1 pv.zhulang.com
 127.0.0.1 tl.zhulang.com
 127.0.0.1 sjqk.zhulang.com
-#·ÉÂ¬Íø
+#飞卢网
 127.0.0.1 s.faloo.com
-#ÊéÏãµç×ÓÊé
+#书香电子书
 127.0.0.1 dm.sxcnw.net
-#×ÝºáÖÐÎÄÍø
+#纵横中文网
 127.0.0.1 ad.zongheng.com
 127.0.0.1 log.zongheng.com
-#äìÏæÊéÔº
+#潇湘书院
 127.0.0.1 images.xxsy.net
 127.0.0.1 xxsy.bohelady.com
-#ºìÐäÌíÏã
+#红袖添香
 127.0.0.1 m.union.hongxiu.com
-#Ð¡ËµÔÄ¶ÁÍø
+#小说阅读网
 127.0.0.1 stat.readnovel.com
-#ÐéÄâÌì¿Õ
+#虚拟天空
 127.0.0.1 b.xntk.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÐÂÎÅÀàÍøÕ¾
-#ÐÂ»ªÍø
+@HostsX 国内站点广告/新闻类网站
+#新华网
 127.0.0.1 adcenter.xinhuanet.com
 127.0.0.1 embed.xinhuanet.com
 127.0.0.1 entity.xinhuanet.com
-#ÈËÃñÍø
+#人民网
 127.0.0.1 ads.people.com.cn
 127.0.0.1 pro.people.com.cn
-#·ï»ËÍø
+#凤凰网
 127.0.0.1 bc.ifeng.com
 127.0.0.1 sta.ifeng.com
 127.0.0.1 sta.play.ifeng.com
 127.0.0.1 stadig.ifeng.com
-#ÁªºÏÔç±¨
+#联合早报
 127.0.0.1 ads.zaobao.com
-#ÐÂÃñÍø
+#新民网
 127.0.0.1 iads.xinmin.cn
-#»Û´ÏÍø
+#慧聪网
 127.0.0.1 hcafp.allyes.com
-#ÖÐÐÂÍø
+#中新网
 127.0.0.1 www.pagechoice.net
 127.0.0.1 report.chinanews.com
-#ÖÐ»ªÍø
+#中华网
 127.0.0.1 c.china.com
 127.0.0.1 dvs.china.com
 127.0.0.1 dvsend.china.com
 127.0.0.1 richmedia.china.com
 127.0.0.1 track.china.com
-#¶«·½ÈÈÏß
+#东方热线
 127.0.0.1 adi.cnool.net
 127.0.0.1 adp1.cnool.net
 127.0.0.1 countimages.cnool.net
-#ÐÇµº»·ÇòÍø
+#星岛环球网
 127.0.0.1 stnn.adsame.com
-#´óÖÚÍø
+#大众网
 127.0.0.1 ad.dzwww.com
-#Ç§ÁúÍø
+#千龙网
 127.0.0.1 ad.cqnews.net
 127.0.0.1 adimg.cqnews.net
-#ÆëÂ³ÔÚÏß
+#齐鲁在线
 127.0.0.1 c.iqilu.com
 127.0.0.1 g.iqilu.com
 127.0.0.1 gimg.iqilu.com
-#ÉÌ¶¼Íø
+#商都网
 127.0.0.1 125.46.61.28
 127.0.0.1 adv.shangdu.com
 127.0.0.1 sdbbsservice.shangdu.com
-#»ªÉÌÍø
+#华商网
 127.0.0.1 g.hsw.cn
 127.0.0.1 stat.hsw.cn
-#ÄÏº£Íø
+#南海网
 127.0.0.1 emarketing.hinews.cn
 127.0.0.1 pl.hinews.cn
-#ÄÏ¶¼Íø
+#南都网
 127.0.0.1 oeeee.adsame.com
 127.0.0.1 images.oeeee.com
-#ÈýÁªËØ²Ä
+#三联素材
 127.0.0.1 ad.3lian.com
-#ÖØÇìÍí±¨
+#重庆晚报
 127.0.0.1 ad.cqwb.com.cn
-#´óÑóÍø
+#大洋网
 127.0.0.1 adimg.dayoo.com
 127.0.0.1 rnd.dayoo.com
 127.0.0.1 sta.dayoo.com
-#±±·½Íø
+#北方网
 127.0.0.1 eap.enorth.com.cn
 127.0.0.1 jsp5.enorth.com.cn
 127.0.0.1 swf.enorth.com.cn
-#»·ÇòÍø
+#环球网
 127.0.0.1 cl2.webterren.com
 127.0.0.1 bjafp.allyes.com
 127.0.0.1 huanqiu.allyes.com
 127.0.0.1 huanqiu.datamaster.com.cn
-#Öéº£ÊÓ´°
+#珠海视窗
 127.0.0.1 poo.zhuhai.gd.cn
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÓÎÏ·ÀàÍøÕ¾
-#µçÍæ°ÍÊ¿
+@HostsX 国内站点广告/游戏类网站
+#电玩巴士
 127.0.0.1 bill.tgbus.com
 127.0.0.1 g.tgbus.com
 127.0.0.1 g.tgbusdata.cn
@@ -3164,11 +1923,11 @@ fe80::1%lo0	localhost
 #178
 127.0.0.1 adcount.178.com
 127.0.0.1 market.178.com
-#ÓÎÏÀÍø
+#游侠网
 127.0.0.1 bmp.ali213.net
-#×îÓÎÏ·
+#最游戏
 127.0.0.1 ad.zuiyouxi.com
-#°®ÅÄÓÎÏ·
+#爱拍游戏
 127.0.0.1 apas.aipai.com
 #776
 127.0.0.1 dynamic.766.com
@@ -3186,12 +1945,12 @@ fe80::1%lo0	localhost
 #DM5
 127.0.0.1 by.cnc.dm5.cn
 127.0.0.1 by.dm5.com
-#ÓÎ¾ÃÍø
+#游久网
 127.0.0.1 stat.uuu9.com
-#ÓÎÃñÐÇ¿Õ
+#游民星空
 127.0.0.1 imgf.gamersky.com
 127.0.0.1 www1.gamersky.com
-#4399Ð¡ÓÎÏ·
+#4399小游戏
 127.0.0.1 asqx.qq937.com
 127.0.0.1 frxz.qq937.com
 127.0.0.1 frxz01.qq937.com
@@ -3207,8 +1966,8 @@ fe80::1%lo0	localhost
 127.0.0.1 uimg.my4399.com
 127.0.0.1 stat.api.4399.com
 127.0.0.1 web.4399.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/²Æ¾­ÀàÍøÕ¾
-#ºÍÑ¶²Æ¾­
+@HostsX 国内站点广告/财经类网站
+#和讯财经
 127.0.0.1 ads.hexun.com
 127.0.0.1 analytics.tool.hexun.com
 127.0.0.1 count.tool.hexun.com
@@ -3219,67 +1978,67 @@ fe80::1%lo0	localhost
 127.0.0.1 union.hexun.com
 127.0.0.1 utrack.hexun.com
 127.0.0.1 wizard.stock.hexun.com
-#¶«·½²Æ¸»Íø
+#东方财富网
 127.0.0.1 ay.eastmoney.com
 127.0.0.1 cp.eastmoney.com
 127.0.0.1 js1.eastmoney.com
 127.0.0.1 same.eastmoney.com
 127.0.0.1 eastmoney.allyes.com
 127.0.0.1 wonderadafa7.allyes.com
-#½ðÈÚ½ç
+#金融界
 127.0.0.1 allyes.jrj.com
 127.0.0.1 aps4.jrjimg.cn
-#Ö¤È¯Ö®ÐÇ
+#证券之星
 127.0.0.1 allyes.stockstar.com
-#ÖÐ½ðÔÚÏß
+#中金在线
 127.0.0.1 click.cnfol.com
 127.0.0.1 pagead.cnfol.com
 127.0.0.1 he.js.cnfol.com
 127.0.0.1 csad.adsame.com
-#MACD½ðÈÚÍø
+#MACD金融网
 127.0.0.1 xc.macd.cn
-#ÖÐ¹ú×Ê±¾Ö¤È¯Íø
+#中国资本证券网
 127.0.0.1 ads.ccstock.cn
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÉãÓ°ÀàÍøÕ¾
-#·äÄñÍø
+@HostsX 国内站点广告/摄影类网站
+#蜂鸟网
 127.0.0.1 pic.fengniao.com
 127.0.0.1 stat.fengniao.com
 127.0.0.1 js.fengniao.com
-#É«Ó°ÎÞ¼É
+#色影无忌
 127.0.0.1 www8.xitek.com
 #POCO
 127.0.0.1 a-m-s.poco.cn
-#ÐÂÉãÓ°
+#新摄影
 127.0.0.1 util.nphoto.net
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/¹ºÎïÀàÍøÕ¾
+@HostsX 国内站点广告/购物类网站
 #Amazon
 127.0.0.1 rcm-images.amazon.com
 127.0.0.1 rcm.amazon.com
 127.0.0.1 rcm-cn.amazon.cn
-#¾©¶«ÉÌ³Ç
+#京东商城
 127.0.0.1 c.fa.360buy.com
 127.0.0.1 click.union.360buy.com
 127.0.0.1 show.union.360buy.com
 127.0.0.1 union.360buy.com
-#µ±µ±Íø
+#当当网
 127.0.0.1 a.dangdang.com
 127.0.0.1 central.dangdang.com
 127.0.0.1 union.dangdang.com
-#ËÕÄþ
+#苏宁
 127.0.0.1 union.suning.com
-#ÒøÌ©
+#银泰
 127.0.0.1 cps.yintai.com
-#·²¿Í³ÏÆ·
+#凡客诚品
 127.0.0.1 union.vancl.com
-#ÃÎ°ÅÉ¯
+#梦芭莎
 127.0.0.1 click.moonbasa.com
 127.0.0.1 static.moonbasa.com
-#¼ÒµçÁªÃË
+#家电联盟
 127.0.0.1 pic.jdunion.com
-#ÌÔ»ý·Ö
+#淘积分
 127.0.0.1 ad.taojifen.net
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ITÀàÍøÕ¾
-#µçÄÔÖ®¼Ò
+@HostsX 国内站点广告/IT类网站
+#电脑之家
 127.0.0.1 ad.adver.com.tw
 127.0.0.1 ad.pchome.net
 127.0.0.1 btm.pchome.net
@@ -3289,7 +2048,7 @@ fe80::1%lo0	localhost
 127.0.0.1 js-1.pchome.net
 127.0.0.1 market.pchome.net
 127.0.0.1 stat.pchome.net
-#ÖÐ¹Ø´åÔÚÏß
+#中关村在线
 127.0.0.1 adm.zol.com.cn
 127.0.0.1 bd.zol.com.cn
 127.0.0.1 bwp.zol.com.cn
@@ -3300,7 +2059,7 @@ fe80::1%lo0	localhost
 127.0.0.1 pvmsite.zol.com.cn
 127.0.0.1 pvsite.zol.com.cn
 127.0.0.1 stat.zol.com.cn
-#PcÅÝÅÝ
+#Pc泡泡
 127.0.0.1 33.pcpop.com
 127.0.0.1 app.pcpop.com
 127.0.0.1 ashow.pcpop.com
@@ -3317,20 +2076,20 @@ fe80::1%lo0	localhost
 127.0.0.1 stat.it168.com
 #Lenovo
 127.0.0.1 lelinks.lenovo.com
-#It»ª¾ü
+#It华军
 127.0.0.1 count.newhua.com
-#Çý¶¯Ö®¼Ò
+#驱动之家
 127.0.0.1 images.mydrivers.com
-#Î÷ÓòIT
+#西域IT
 127.0.0.1 apic.xiyuit.com
-#î£ÉÌÔÚÏß
+#睿商在线
 127.0.0.1 count.spn.com.cn
 127.0.0.1 www2.spn.com.cn
-#ÍòÎ¬¼ÒµçÍø
+#万维家电网
 127.0.0.1 js.ea3w.com
 127.0.0.1 pic.ea3w.com
 127.0.0.1 stat.ea3w.com
-#Ìì¼«Íø
+#天极网
 127.0.0.1 counter.tianjimedia.com
 127.0.0.1 image.tianjimedia.com
 127.0.0.1 js.tianjimedia.com
@@ -3342,22 +2101,22 @@ fe80::1%lo0	localhost
 127.0.0.1 ucpn.yesky.com
 127.0.0.1 union.yesky.com
 127.0.0.1 yeskyafp.allyes.com
-#¹è¹È¶¯Á¦
+#硅谷动力
 127.0.0.1 trace.enet.com.cn
 127.0.0.1 enet4.enet.com.cn
-#±ÈÌØÍø
+#比特网
 127.0.0.1 adsame.tianjimedia.com
-#ÈüµÏÍø
+#赛迪网
 127.0.0.1 stat.ccidnet.com
 127.0.0.1 www2.ccidnet.com
-#¶¹¶¹Íø
+#豆豆网
 127.0.0.1 ad.ddvip.com
 #Donews
 127.0.0.1 gg.donews.com
-#Ð¡ÐÜÔÚÏß
+#小熊在线
 127.0.0.1 gg.whbear.com
 127.0.0.1 yahoo1.beareyes.com.cn
-#À¶É«ÀíÏë
+#蓝色理想
 127.0.0.1 gg.blueidea.com
 #CSDN
 127.0.0.1 ad.csdn.net
@@ -3369,11 +2128,11 @@ fe80::1%lo0	localhost
 127.0.0.1 img.rayfile.com
 127.0.0.1 raya.rayfile.com
 127.0.0.1 w105.rayfile.com
-#Ç§¾üÍòÂí
+#千军万马
 127.0.0.1 ad.qjwm.com
 127.0.0.1 tj.qjwm.com
 127.0.0.1 u.qjwm.com
-#»ªÎª
+#华为
 127.0.0.1 acd.adkongjian.com
 127.0.0.1 cs.adkongjian.com
 127.0.0.1 iacd.adkongjian.com
@@ -3405,40 +2164,40 @@ fe80::1%lo0	localhost
 127.0.0.1 union.suda123.com
 #idown
 127.0.0.1 idown.stsword.cn
-#Ä¾ÂìÒÏ
+#木蚂蚁
 127.0.0.1 js.mumayi.net
 #Xdowns
 127.0.0.1 ccc.xdowns.com
 #Crsky
 127.0.0.1 images.crsky.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/Æû³µÀàÍøÕ¾
-#³µÊÐÍø
+@HostsX 国内站点广告/汽车类网站
+#车市网
 127.0.0.1 analyze.cheshi.com
 127.0.0.1 click.cheshi.com
 127.0.0.1 media.cheshi-img.com
 127.0.0.1 pv.cheshi.com
 127.0.0.1 fallyesbjafa.allyes.com
-#°®¿¨Æû³µ
+#爱卡汽车
 127.0.0.1 count.xcar.com.cn
 127.0.0.1 d0.xcar.com.cn
 127.0.0.1 d1.xcar.com.cn
 127.0.0.1 dw.xcar.com.cn
-#Ò×³µÍø
+#易车网
 127.0.0.1 autosense.bitauto.com
 127.0.0.1 g.bitauto.com
 127.0.0.1 gimg.bitauto.com
 127.0.0.1 ip.bitauto.com
 127.0.0.1 log.bitauto.com
 127.0.0.1 mcc.chinauma.net
-#Æû³µÖ®¼Ò
+#汽车之家
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 adshow.che168.com
 127.0.0.1 pv.che168.com
-#Ì«Æ½ÑóÆû³µÍø
+#太平洋汽车网
 127.0.0.1 count.pcauto.com.cn
-#ÖÐ¹úÆû³µÍø
+#中国汽车网
 127.0.0.1 chinacarsafp.allyes.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÊÓÆµÀàÍøÕ¾
+@HostsX 国内站点广告/视频类网站
 #CNTV
 127.0.0.1 a.cctv.com
 127.0.0.1 a.cntv.cn
@@ -3459,7 +2218,7 @@ fe80::1%lo0	localhost
 #JSTV
 127.0.0.1 jstvimedia.allyes.com
 127.0.0.1 jstv.allyes.com
-#ÎÒÀÖÍø
+#我乐网
 127.0.0.1 acs.agent.v-56.com
 127.0.0.1 bill.agent.v-56.com
 127.0.0.1 stat3.corp.v-56.com
@@ -3475,12 +2234,12 @@ fe80::1%lo0	localhost
 127.0.0.1 union.56.com
 127.0.0.1 uvimage.56.com
 127.0.0.1 v16.56.com
-#6¼ä·¿
+#6间房
 127.0.0.1 pole.6rooms.com
 127.0.0.1 simba.6.cn
 127.0.0.1 union.6.cn
 127.0.0.1 shrek.6.cn
-#iÆæÒÕ
+#i奇艺
 127.0.0.1 minisite.qiyi.com
 127.0.0.1 policy.cupid.qiyi.com
 127.0.0.1 show.cupid.qiyi.com
@@ -3495,7 +2254,7 @@ fe80::1%lo0	localhost
 #AcFun
 127.0.0.1 img.linekong.com
 127.0.0.1 www.linekong.com
-#ÓÅ¿áÍø
+#优酷网
 127.0.0.1 e.stat.ykimg.com
 127.0.0.1 ad.atm.youku.com
 127.0.0.1 atm.youku.com
@@ -3526,7 +2285,7 @@ fe80::1%lo0	localhost
 127.0.0.1 a.htwisdom.com
 127.0.0.1 h.irs01.com
 127.0.0.1 irs01.com
-#ÍÁ¶¹Íø
+#土豆网
 127.0.0.1 adcontrol.tudou.com
 127.0.0.1 adextensioncontrol.tudou.com
 127.0.0.1 adplay.tudou.com
@@ -3541,41 +2300,41 @@ fe80::1%lo0	localhost
 127.0.0.1 tudouflv.dnion.com
 127.0.0.1 tvp.tudou.com
 127.0.0.1 wwwtest.tudou.com
-#¿á6Íø
+#酷6网
 127.0.0.1 1.allyes.com.cn
 127.0.0.1 ku6.allyes.com
 127.0.0.1 analytics.ku6.com
 127.0.0.1 pq.stat.ku6.com
 127.0.0.1 st.vq.ku6.cn
-#¼¤¶¯Íø
+#激动网
 127.0.0.1 86file.megajoy.com
 127.0.0.1 86mms.megajoy.com
 127.0.0.1 86get.joy.cn
 127.0.0.1 86log.joy.cn
-#ÌìÏßÊÓÆµ
+#天线视频
 127.0.0.1 casting.openv.com
 127.0.0.1 m.openv.tv
 127.0.0.1 uniclick.openv.com
 #UstreamTV
 127.0.0.1 media.scanscout.com
 127.0.0.1 log.adap.tv
-#Æ¤Æ¤Ó°ÊÓ
+#皮皮影视
 127.0.0.1 afm.pipi.cn
 127.0.0.1 game.pipi.cn
 127.0.0.1 qian.pipi.cn
-#µÚÒ»·ÅÓ³ÊÒ
+#第一放映室
 127.0.0.1 admin.onefy.com
 127.0.0.1 bo.tv365.cc
 #Wo318
 127.0.0.1 wo318.k621.com
-#±¬Ã×»¨
+#爆米花
 127.0.0.1 union.pomoho.com
-#ÀÖÊÓÍø
+#乐视网
 127.0.0.1 pro.letv.com
 127.0.0.1 stat.letv.com
 127.0.0.1 i.mediapower.mobi
 127.0.0.1 letv.allyes.com
-#¾Þ¾¨Íø
+#巨鲸网
 127.0.0.1 t.top100.cn
 #310v
 127.0.0.1 gg.310v.net
@@ -3585,8 +2344,8 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.dj527.com
 127.0.0.1 sy.0575dp.com
 127.0.0.1 www.0575dp.com
-@HostsX ¹úÄÚÕ¾µã¹ã¸æ/ÐÅÏ¢·þÎñÀàÍøÕ¾
-#ËÑ·¿
+@HostsX 国内站点广告/信息服务类网站
+#搜房
 127.0.0.1 clickn.soufun.com
 127.0.0.1 count.soufun.com
 127.0.0.1 flas.soufun.com
@@ -3595,28 +2354,28 @@ fe80::1%lo0	localhost
 127.0.0.1 show.soufun.com
 127.0.0.1 shows.soufun.com
 127.0.0.1 shows1.soufun.com
-#°¢°îÍø
+#阿邦网
 127.0.0.1 abangafp.abang.com
 127.0.0.1 clk.abang.com
 127.0.0.1 y.abang.com
-#ÖÐ¹úÌìÆø
+#中国天气
 127.0.0.1 poster1.weather.com.cn
 127.0.0.1 poster.weather.com.cn
-#39½¡¿µÍø
+#39健康网
 127.0.0.1 app-g.39.net
 127.0.0.1 dpvc.39.net
 127.0.0.1 39net.datamaster.com.cn
-#Ñ°Ò½ÎÊÒ©Íø
+#寻医问药网
 127.0.0.1 gg.xywy.com
-#Í¾Å£Íø
+#途牛网
 127.0.0.1 union.tuniu.com
-#ôÜÊÂ°Ù¿Æ
+#糗事百科
 127.0.0.1 ad.qiushibaike.com
 127.0.0.1 resource.duopao.com
 127.0.0.1 g.duopao.com
-#»¥¶¯°Ù¿Æ
+#互动百科
 127.0.0.1 stat.hudong.com
-#Ð¯³ÌÍø
+#携程网
 127.0.0.1 allyes.ctrip.com
 #21CN
 127.0.0.1 analytics.21cn.com
@@ -3652,20 +2411,20 @@ fe80::1%lo0	localhost
 127.0.0.1 skypetools5.tom.com
 127.0.0.1 store.ule.tom.com
 127.0.0.1 ule.tom.com
-#±±ÇàÍø
+#北青网
 127.0.0.1 a.emedia.cn
 127.0.0.1 v.emedia.cn
 127.0.0.1 z3.emedia.cn
 127.0.0.1 ad.ynet.com
 127.0.0.1 fun.ynet.com
 127.0.0.1 ranking.ynet.com
-#µÂÖÝÖ®´°
+#德州之窗
 127.0.0.1 gg.dzwindows.com
-#ºÓ³Ø365
+#河池365
 127.0.0.1 bbs.corp.gxhc365.com
-#±±º£365
+#北海365
 127.0.0.1 ad.beihai365.com
-#HiaoºÃÍø
+#Hiao好网
 127.0.0.1 1.up.hiao.com
 127.0.0.1 2.up.hiao.com
 127.0.0.1 3.up.hiao.com
@@ -3676,16 +2435,16 @@ fe80::1%lo0	localhost
 127.0.0.1 9628.up.hiao.com
 127.0.0.1 stat.hiao.com
 127.0.0.1 up.hiao.com
-#»ªÉùÂÛÌ³
+#华声论坛
 127.0.0.1 click.hnol.net
 127.0.0.1 clickip.hnol.net
 127.0.0.1 ts.instreet.cn
-#ÒÚ·¿
+#亿房
 127.0.0.1 shows.fdc.com.cn
 #51Job
 127.0.0.1 logs.51job.com
 127.0.0.1 kwdsrv.51job.com
-#ÖÇÁªÕÐÆ¸
+#智联招聘
 127.0.0.1 cnt.zhaopin.com
 #Yidaba
 127.0.0.1 adc.yidaba.com
@@ -3700,7 +2459,7 @@ fe80::1%lo0	localhost
 127.0.0.1 images.yidaba.com
 127.0.0.1 images.cms.yidaba.com
 127.0.0.1 static.yidaba.com
-@Windows Èí¼þ¹ã¸æ¹ýÂË
+@Windows 软件广告过滤
 #Avira
 127.0.0.1 notifier.avira.com
 #360Safe
@@ -3747,7 +2506,7 @@ fe80::1%lo0	localhost
 127.0.0.1 advert.estsoft.com
 #Potplayer
 127.0.0.1 m.adtc.daum.net
-#±©·çÓ°Òô
+#暴风影音
 127.0.0.1 boxlist.baofeng.net
 127.0.0.1 clicklog.moviebox.baofeng.net
 127.0.0.1 diag.baofeng.net
@@ -3903,9 +2662,9 @@ fe80::1%lo0	localhost
 127.0.0.1 al.myrice.com
 127.0.0.1 all.myrice.com
 127.0.0.1 client.myrice.com
-#¶àÃ×ÒôÀÖ
+#多米音乐
 127.0.0.1 pc.boxshows.com
-#YYÓïÒô
+#YY语音
 127.0.0.1 ad.yy.duowan.com
 127.0.0.1 do.yy.duowan.com
 127.0.0.1 forceupdate.yy.duowan.com
@@ -3915,14 +2674,14 @@ fe80::1%lo0	localhost
 127.0.0.1 dw.hiido.cn
 127.0.0.1 im.yy.hiido.cn
 127.0.0.1 njs.dw.hiido.cn
-#·ÉÐÅ¿Í»§¶Ë
+#飞信客户端
 127.0.0.1 gg.joytod.com
 127.0.0.1 hdss1fta.fetion.com.cn
 127.0.0.1 huodong.feixin.10086.cn
 127.0.0.1 imgl.fetionpic.com
 127.0.0.1 minisite.fetionpic.com
 127.0.0.1 minisite0.fetionpic.com
-#°¢ÀïÍúÍú
+#阿里旺旺
 127.0.0.1 jc.wangwang.taobao.com
 127.0.0.1 p3p.alisoft.com
 127.0.0.1 po.im.alisoft.com
@@ -3946,18 +2705,18 @@ fe80::1%lo0	localhost
 127.0.0.1 isgame.ipark.cn
 127.0.0.1 ghpage.iuzone.com
 127.0.0.1 page.iuzone.com
-#Ç§Ç§¾²Ìý
+#千千静听
 127.0.0.1 ads.qianqian.com
 127.0.0.1 ttads.ttplayer.com
 127.0.0.1 ttmsg.qianqian.com
-#¿áÎÒÒôÀÖ
+#酷我音乐
 127.0.0.1 g.kuwo.cn
 127.0.0.1 wa.kuwo.cn
 127.0.0.1 updatepage.kuwo.cn
 127.0.0.1 g.koowo.com
 127.0.0.1 wa.koowo.com
 127.0.0.1 webstat.kuwo.cn
-#¿á¹·ÒôÀÖ
+#酷狗音乐
 127.0.0.1 dl.ddong.com
 127.0.0.1 game.kugou.com
 127.0.0.1 games.kugou.com
@@ -3984,7 +2743,7 @@ fe80::1%lo0	localhost
 #Micronichefinder
 127.0.0.1 www.micronichefinder.com
 127.0.0.1 micronichefinder.com
-#¹âÓ°Ä§ÊõÊÖ
+#光影魔术手
 127.0.0.1 ad.neoimaging.cn
 127.0.0.1 clientconfig.neoimaging.cn
 127.0.0.1 jump.neoimaging.cn
@@ -4006,7 +2765,7 @@ fe80::1%lo0	localhost
 127.0.0.1 tj.pctutu.net
 127.0.0.1 update.pctutu.com
 127.0.0.1 update.pctutu.net
-#½ðÉ½¶¾°Ô
+#金山毒霸
 127.0.0.1 i2c.duba.net
 127.0.0.1 i2u.www.duba.net
 127.0.0.1 ifr.duba.net
@@ -4022,13 +2781,13 @@ fe80::1%lo0	localhost
 127.0.0.1 api.pc120.com
 127.0.0.1 stat.sd.keniu.com
 127.0.0.1 tq.sd.keniu.com
-#½ðÉ½´Ê°Ô
+#金山词霸
 127.0.0.1 34.goto.www.iciba.com
 127.0.0.1 counter.kds.iciba.com
 127.0.0.1 goto.www.iciba.com
 127.0.0.1 u.iciba.com
 127.0.0.1 u.sl.iciba.com
-#QQ¹Ü¼Ò
+#QQ管家
 127.0.0.1 s.pcmgr.qq.com
 #QQCEO
 127.0.0.1 ad.qqceo.net
@@ -4042,14 +2801,14 @@ fe80::1%lo0	localhost
 #QQvoice
 127.0.0.1 union.qqvoice.com
 127.0.0.1 union.uucall.hk
-#ËÑ¹·Æ´Òô
+#搜狗拼音
 127.0.0.1 files2.sogou.com
 127.0.0.1 config.pinyin.sogou.com
 127.0.0.1 ime.sogou.com
 127.0.0.1 info.pinyin.sogou.com
 127.0.0.1 ping.pinyin.sogou.com
 127.0.0.1 st.pinyin.sogou.com
-#ËÑ¹·ä¯ÀÀÆ÷
+#搜狗浏览器
 127.0.0.1 conf.ie.sogou.com
 127.0.0.1 config.ie.sogou.com
 127.0.0.1 ping.ie.sogou.com
@@ -4062,7 +2821,7 @@ fe80::1%lo0	localhost
 #Yunduan
 127.0.0.1 tj.yunduan.cn
 127.0.0.1 update.yunduan.cn
-@Windows Èí¼þÑéÖ¤ÆÁ±Î
+@Windows 软件验证屏蔽
 #Game Assassin's Creed
 127.0.0.1 onlineconfigservice.ubi.com
 127.0.0.1 orbitservice.ubi.com
@@ -4164,7 +2923,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.comodogroup.com
 127.0.0.1 www.usertrust.com
 127.0.0.1 crl.usertrust.com
-#Emurasoft£¨EmEditor£©
+#Emurasoft（EmEditor）
 127.0.0.1 www.emurasoft.com
 #FlashFXP
 127.0.0.1 liveupdate.inicom.net
@@ -4228,7 +2987,7 @@ fe80::1%lo0	localhost
 127.0.0.1 ps2.zonelabs.com
 127.0.0.1 register.zonelabs.com
 127.0.0.1 update.zonelabs.com
-@HostsX ¹úÍâ¹ã¸æÆ½Ì¨
+@HostsX 国外广告平台
 #247realmedia
 127.0.0.1 accuweathercollect.247realmedia.com
 127.0.0.1 adv.247realmedia.com
@@ -9400,7 +8159,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.linkworth.com
 127.0.0.1 www.sq2trk2.com
 127.0.0.1 www.srvbytrking.com
-@HostsX ¹úÄÚ¹ã¸æÁªÃË
+@HostsX 国内广告联盟
 #0252
 127.0.0.1 js.0252.com
 127.0.0.1 jump.0252.com
@@ -10523,7 +9282,7 @@ fe80::1%lo0	localhost
 127.0.0.1 script.yucmedia.com
 127.0.0.1 serv.yucmedia.com
 127.0.0.1 www.yucmedia.com
-@Mobile ÊÖ»ú¹ã¸æÆ½Ì¨
+@Mobile 手机广告平台
 #16kxs
 127.0.0.1 ad.16kxs.com
 127.0.0.1 wap10.16kxs.com
@@ -11171,7 +9930,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.stickylogic.com
 127.0.0.1 www.wqmobile.com
 127.0.0.1 www.zhesm.com
-@HostsX Í³¼Æ¸ú×ÙÆÁ±Î
+@HostsX 统计跟踪屏蔽
 #51La
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
@@ -11589,7 +10348,7 @@ fe80::1%lo0	localhost
 127.0.0.1 code3.soua.com
 127.0.0.1 www.soua.com
 127.0.0.1 union.soua.com
-#Ê¢´óÍ³¼Æ
+#盛大统计
 127.0.0.1 adrs.sdo.com
 127.0.0.1 bf.snyu.sdo.com
 127.0.0.1 bh.snyu.sdo.com
@@ -11697,10 +10456,10 @@ fe80::1%lo0	localhost
 127.0.0.1 www.referer.cn
 127.0.0.1 www.zzcount.com
 127.0.0.1 zjomo2.app9.hubspot.com
-@HostsX ·ÀÖ¹ÍøÂç½Ù³Ö
-#ÓòÃû½Ù³Ö
+@HostsX 防止网络劫持
+#域名劫持
 127.0.0.1 ss.cnnic.cn
-#ÔËÓªÉÌ½Ù³Ö
+#运营商劫持
 127.0.0.1 114so.cn
 127.0.0.1 taobao.114so.cn
 127.0.0.1 sh.114so.cn
@@ -11740,7 +10499,7 @@ fe80::1%lo0	localhost
 127.0.0.1 pop.17lele.net
 127.0.0.1 search.yousee.com
 127.0.0.1 sg.yousee.com
-#¸÷µØÔËÓªÉÌ¹ã¸æ
+#各地运营商广告
 127.0.0.1 lc.havod.com
 127.0.0.1 havod.com
 127.0.0.1 www.havod.com
@@ -11749,8 +10508,8 @@ fe80::1%lo0	localhost
 127.0.0.1 ad.xunkoo.com
 127.0.0.1 ads.iisdoor.com
 127.0.0.1 pv.bbapp.net
-@HostsX ¿ÉÒÉ²¡¶¾À¹½Ø
-#µöÓãÕ©Æ­
+@HostsX 可疑病毒拦截
+#钓鱼诈骗
 127.0.0.1 www.watbw.com
 127.0.0.1 www.vanbv.com
 127.0.0.1 98712.com
@@ -12008,7 +10767,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.fengxiong.hk
 127.0.0.1 www.qq.com.2012r.in
 127.0.0.1 go2buynow.info
-#ä¯ÀÀÆ÷½Ù³Ö
+#浏览器劫持
 127.0.0.1 054.cc
 127.0.0.1 1188.com
 127.0.0.1 2548.cn
@@ -12158,7 +10917,7 @@ fe80::1%lo0	localhost
 127.0.0.1 t.2456.cn
 127.0.0.1 www.2456.cn
 127.0.0.1 www.66game.cn
-#²¡¶¾ÏÂÔØ
+#病毒下载
 127.0.0.1 dl.soucool123.com
 127.0.0.1 www.tt669.com
 127.0.0.1 tt669.com
@@ -12275,8 +11034,8 @@ fe80::1%lo0	localhost
 127.0.0.1 www.winscp.cc
 127.0.0.1 www.sshsecure.com
 127.0.0.1 l.ip-163.com
-@HostsX ¶ñÒâµ¯´°ÆÁ±Î
-#Ç©Ãûµ¯´°
+@HostsX 恶意弹窗屏蔽
+#签名弹窗
 127.0.0.1 code.2010qianming.com
 127.0.0.1 code.52qiangming.com
 127.0.0.1 code.aizhuanlove.cn
@@ -12291,7 +11050,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.aiqianming.cn
 127.0.0.1 www.cangtoushi.cn
 127.0.0.1 www1.99mc.com
-#¿Í·þµ¯´°
+#客服弹窗
 127.0.0.1 chat.53kf.com
 127.0.0.1 up.53kf.com
 127.0.0.1 adv.53kf.com
@@ -12301,7 +11060,7 @@ fe80::1%lo0	localhost
 127.0.0.1 www.918kf.com
 127.0.0.1 www.54kfqq.com
 127.0.0.1 www.live800.com
-#ÓÎÏ·µ¯´°
+#游戏弹窗
 127.0.0.1 astd.snsfun.cc
 127.0.0.1 astds3.snsfun.cc
 127.0.0.1 plsm.snsfun.cc
@@ -12512,7 +11271,7 @@ fe80::1%lo0	localhost
 127.0.0.1 u.xcy8.com
 127.0.0.1 sd.gogo.com
 127.0.0.1 img.gogo.com
-#¶ñÒâµ¯´°
+#恶意弹窗
 127.0.0.1 0831.ch512.com
 127.0.0.1 1.usazm.net
 127.0.0.1 10000.mm.oishow.com
