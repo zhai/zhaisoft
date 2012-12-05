@@ -45,7 +45,7 @@ fe80::1%lo0	localhost
 127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creative.ak.fbcdn.net
 69.171.225.13 api.facebook.com
-69.171.225.13 api-read.facebook.com
+69.171.237.34 api-read.facebook.com
 61.213.189.98 b.static.ak.facebook.com
 61.213.189.120 b.static.ak.fbcdn.net
 66.220.145.63 bigzipfiles.facebook.com
