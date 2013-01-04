@@ -206,36 +206,36 @@
 173.194.72.95	googleapis.l.google.com
 173.194.72.95	android.googleapis.com
 
-74.125.31.190	buttons.googlesyndication.com
+74.125.128.199	buttons.googlesyndication.com
 
-74.125.31.190	developer.android.com
-74.125.31.190	market.android.com
+74.125.128.199	developer.android.com
+74.125.128.199	market.android.com
 
-74.125.31.190	base0.googlehosted.com
-74.125.31.190	base1.googlehosted.com
-74.125.31.190	base2.googlehosted.com
-74.125.31.190	base3.googlehosted.com
-74.125.31.190	base4.googlehosted.com
-74.125.31.190	base5.googlehosted.com
+74.125.128.199	base0.googlehosted.com
+74.125.128.199	base1.googlehosted.com
+74.125.128.199	base2.googlehosted.com
+74.125.128.199	base3.googlehosted.com
+74.125.128.199	base4.googlehosted.com
+74.125.128.199	base5.googlehosted.com
 
-74.125.31.190	blogsearch.google.com.hk
-74.125.31.190	images.google.com.hk
-74.125.31.190	news.google.com.hk
-74.125.31.190	picasaweb.google.com.hk
-74.125.31.190	plus.url.google.com.hk
-74.125.31.190	wenda.google.com.hk
-74.125.31.190	www.google.com.hk
+74.125.128.199	blogsearch.google.com.hk
+74.125.128.199	images.google.com.hk
+74.125.128.199	news.google.com.hk
+74.125.128.199	picasaweb.google.com.hk
+74.125.128.199	plus.url.google.com.hk
+74.125.128.199	wenda.google.com.hk
+74.125.128.199	www.google.com.hk
 
 # Ingress
 173.194.73.141	betaspike.appspot.com
 203.208.46.200	www.panoramio.com
 203.208.46.200	static.panoramio.com
 
-74.125.31.190	ssl.google-analytics.com
-74.125.31.190	www.googlelabs.com
+74.125.128.199	ssl.google-analytics.com
+74.125.128.199	www.googlelabs.com
 173.194.73.141	chrometophone.appspot.com
 173.194.73.141	lfe-alpo-gm.appspot.com
-74.125.31.190	img0.gmodules.com
+74.125.128.199	img0.gmodules.com
 #Google Services END
 
 #Facebook Start--zz
