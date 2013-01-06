@@ -2,5 +2,5 @@ version_name=0.9.8.1205
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/aboutonekeyhost.html
-hoststime=2013-01-04 12:00:00
+hoststime=2013-01-06 12:00:00
 hostsinfo=更新facebook新地址;
