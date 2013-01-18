@@ -1,12 +1,6 @@
-#      update - 2013-1-4
-#      thanks Huhamhire smarthost ,etc .
+#UPDATE:13-01-18 12:00
 
-#---start
-
-
-#---end 
- 
-
+# thanks  smarthost huhamhire  etc.
 #Android & Google Services START
 127.0.0.1	localhost
 
@@ -230,7 +224,7 @@
 
 # Ingress
 173.194.75.141	betaspike.appspot.com
-173.194.76.128	tatic.panoramio.com
+173.194.76.128	static.panoramio.com
 173.194.37.99	panoramio.com
 173.194.37.99	www.panoramio.com
 
@@ -242,8 +236,8 @@
 #Google Services END
 
 #Facebook Start
-173.252.110.27	api-read.facebook.com
-173.252.110.27	api.facebook.com
+173.252.100.18	api-read.facebook.com
+173.252.100.18	api.facebook.com
 69.171.237.36	apps.facebook.com
 61.213.189.98	b.static.ak.facebook.com
 61.213.189.120	b.static.ak.fbcdn.net
