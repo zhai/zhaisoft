@@ -148,29 +148,44 @@
 		<P>
 			一键Host简介
 		</p>
-		<p>
-			Email:<a href="mailto:masterzxg@gmail.com">masterzxg@gmail.com</a>
-		</p>
+		
 		<h2>更新日志：</h2>
 
 
 
 
-<h3>版本：一键Host（V0.9.10.0125)</h3>
+<h3>版本：一键Host（V0.9.10.0129)</h3>
 		<p>
-			时间： 2013-1-25
+			时间： 2013-1-29
 		</p>
 		<ol>
-			<li>
-				增加DNS设置功能
+		
+		<li>
+				更新感谢加载方式，更加人性化，更新反馈列表，支持更多的反馈类型
+				
+			</li>
+		     <li>
+				减少权限，包括网络位置和手机状态码的读取
+				
+			</li>
+			 <li>
+				激活host编辑功能
 				
 			</li>
 			<li>
-				支持Ingress游戏
+				激活DNS设置功能
+				
+			</li>
+			<li>
+				支持Ingress游戏,支持手机端facebook,支持facebook视频
 				
 			</li>
 			<li>
 				更新UI
+				
+			</li>
+			<li>
+				修复上一版本无法更新错误
 				
 			</li>
 			
