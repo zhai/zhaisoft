@@ -1,4 +1,4 @@
-#UPDATE:13-01-31 15:12
+#UPDATE:13-02-01 18:00
 #Thanks  smarthsot xia.Lao etc.
 
 #Android & Google Services START
@@ -224,6 +224,7 @@
 
 # Ingress
 173.194.75.141	betaspike.appspot.com
+173.194.75.141	m-dot-betaspike.appspot.com
 173.194.76.128	static.panoramio.com
 173.194.37.99	panoramio.com
 173.194.37.99	www.panoramio.com
@@ -236,8 +237,8 @@
 #Google Services END
 
 #Facebook Start
-69.171.237.40	api-read.facebook.com
-69.171.237.40	api.facebook.com
+31.13.75.23	api-read.facebook.com
+31.13.75.23	api.facebook.com
 69.171.237.36	apps.facebook.com
 61.213.189.98	b.static.ak.facebook.com
 61.213.189.120	b.static.ak.fbcdn.net
