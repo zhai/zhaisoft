@@ -537,9 +537,10 @@
 74.125.31.190	img0.gmodules.com
 #Google Services END
 
+
 #Facebook Start
-31.13.75.23	api-read.facebook.com
-31.13.75.23	api.facebook.com
+173.252.100.17	api-read.facebook.com
+173.252.100.17	api.facebook.com
 69.171.237.36	apps.facebook.com
 61.213.189.98	b.static.ak.facebook.com
 61.213.189.120	b.static.ak.fbcdn.net
@@ -552,13 +553,13 @@
 184.31.111.139	connect.facebook.net
 69.171.227.19	creativeupload.facebook.com
 69.171.240.99	d.facebook.com
-69.171.229.18	developers.facebook.com
+173.252.100.17	developers.facebook.com
 66.220.149.90	error.facebook.com
 173.252.100.18	facebook.com
 61.213.189.113	fbcdn.net
 64.213.102.26	fbcdn-profile-a.akamaihd.net
 173.223.232.67	fbcdn-sphotos-a.akamaihd.net
-173.252.100.18	graph.facebook.com
+173.252.100.17	graph.facebook.com
 66.220.151.33	hphotos-ak-snc1.facebook.com
 66.220.151.33	hphotos-ak-snc3.facebook.com
 69.171.240.10	hphotos-ash4.fbcdn.net
@@ -591,9 +592,9 @@
 66.220.144.41	vpn.tfbnw.net
 120.29.145.50	vthumb.ak.fbcdn.net
 66.220.151.31	vupload.facebook.com
-69.171.234.27	www.connect.facebook.com
-69.171.247.21	www.facebook.com
-69.171.225.13	zh-CN.facebook.com
+69.171.225.31	www.connect.facebook.com
+173.252.100.17	www.facebook.com
+69.171.242.72	zh-CN.facebook.com
 #Facebook End
 
 
