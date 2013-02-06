@@ -1,4 +1,4 @@
-version_name=0.9.7.0206
+version_name=0.9.7.0208
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaiwallpaper/zhaiwallpaper.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaiwallpaper/aboutzhaiwallpaper.html
