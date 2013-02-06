@@ -5,7 +5,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml;charset=UTF-8" />
 		<meta http-equiv="pragma" content="no-cache" />
-		<title>关于软件</title>
+		<title>发现更新</title>
 		<style>
 			h2 {
 				margin-top: 0px;
@@ -169,21 +169,12 @@
 		</p>
 		<h2>更新日志：</h2>
 
-		<h3>版本：技术宅壁纸（V0.9.7.0206)</h3>
+		<h3>版本：技术宅壁纸（V0.9.6.1029)</h3>
 		<p>
-			时间： 2012-02-06
+			时间： 2012-10-29
 		</p>
 		<ol>
 			
-
-<li>
-				更新多点触摸手感
-			</li>
-
-<li>
-				更新设置壁纸的时候出现模糊和在SD卡中生成一张缩略图的问题，不会再生成缩略图
-			</li>
-
 			<li>
 				修正HTML标签的问题
 			</li>
