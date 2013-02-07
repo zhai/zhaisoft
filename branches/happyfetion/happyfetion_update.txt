@@ -1,4 +1,4 @@
-version_name=0.1.01.0208
+version_name=0.1.01.0207
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/happyfetion/happyfetion.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/happyfetion/happyfetion_about.html

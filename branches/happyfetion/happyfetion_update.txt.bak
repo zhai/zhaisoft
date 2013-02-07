@@ -1,7 +1,4 @@
 version_name=0.1.01.0208
 force_update=0
-apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.apk
-info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/aboutonekeyhost.html
-hoststime=2013-02-05 06:20:00 
-host=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/hosts
-hostsinfo=更新facebook新地址;
+apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/happyfetion/happyfetion.apk
+info=https://raw.github.com/zhaizi/zhaisoft/master/branches/happyfetion/happyfetion_about.html
