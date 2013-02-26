@@ -1,4 +1,4 @@
-version_name=1.7.01.0226
+version_name=1.7.01.0225
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/ctcare/ctcare.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/ctcare/aboutctcare.html
