@@ -1,0 +1,64 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Category Title",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                         "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                         "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 4"
+                    }
+                ]
+            },
+            {
+                "name": "Category Title 2",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                         "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                         "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                         "url": "http://en.94994.com/cloudWallpaper/Beauty/1298.jpg",
+                        "thumbUrl": "http://en.94994.com/cloudWallpaper/Beauty/s_1298.jpg",
+                        "name": "WP 4"
+                    }
+                ]
+            }
+        ]
+    }
+}
