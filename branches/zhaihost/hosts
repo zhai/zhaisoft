@@ -1,7 +1,32 @@
-#Thanks      smarthosts    xia.Lao   etc. 2013/4/8
+#Thanks      smarthosts    xia.Lao   etc. 2013/4/22
 
+
+
+#youtube upload
+
+203.208.46.181 youtube.com
+203.208.46.181 www.youtube.com
+203.208.46.181 gdata.youtube.com
+203.208.46.181 m.youtube.com
+203.208.46.181 help.youtube.com
+203.208.46.181 upload.youtube.com
+203.208.46.181 accounts.youtube.com
+203.208.46.181 insight.youtube.com
+203.208.46.181 apiblog.youtube.com
+203.208.46.181 clients1.youtube.com
+203.208.46.181 s.youtube.com
+203.208.46.181 s2.youtube.com
+203.208.46.181 i.ytimg.com
+203.208.46.181 i1.ytimg.com
+203.208.46.181 i2.ytimg.com
+203.208.46.181 i3.ytimg.com
+203.208.46.181 i4.ytimg.com
+203.208.46.181 s.ytimg.com
+203.208.46.181 ytimg.l.google.com
 #Android & Google Services START
 127.0.0.1	localhost
+
+
 
 173.194.72.84	accounts.google.com
 
