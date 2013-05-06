@@ -4,4 +4,4 @@ apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.a
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/aboutonekeyhost.html
 hoststime=2013-05-06 06:20:00 
 host=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/hosts
-host_update_tips=更新youtube地址,添加wiki地址
+host_update_tips=1.添加youtube上传地址,2.添加wiki地址,3.添加广告过滤(部分)
