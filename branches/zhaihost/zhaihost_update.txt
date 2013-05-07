@@ -1,3 +1,4 @@
+
 version_name=1.0.3.0506
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.apk
