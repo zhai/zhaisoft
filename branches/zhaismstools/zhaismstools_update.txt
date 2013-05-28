@@ -1,4 +1,4 @@
-version_name=0.1.2.0422
+version_name=0.1.3.0529
 force_update=0
 apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaismstools/zhaismstools.apk
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaismstools/zhaismstools_about.html
