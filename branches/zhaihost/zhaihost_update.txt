@@ -6,4 +6,4 @@ apk=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/onekeyhost.a
 info=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/aboutonekeyhost.html
 hoststime=2013-06-13 10:00:00 
 host=https://raw.github.com/zhaizi/zhaisoft/master/branches/zhaihost/hosts
-host_update_tips=1.添加youtube上传地址,2.添加wiki地址[感谢humorce],3.更新主要host
+host_update_tips=1.更新主要host,2.如果host还不能更新，请使用GoogleDnS再使用更新功能
