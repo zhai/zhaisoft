@@ -298,17 +298,17 @@
 #203.208.46.170      www.google.com.hk
 
 # Ingress
-173.194.75.141      betaspike.appspot.com
-173.194.75.141      m-dot-betaspike.appspot.com
-173.194.76.128      static.panoramio.com
-173.194.37.99      panoramio.com
-173.194.37.99      www.panoramio.com
+173.194.75.141  betaspike.appspot.com
+173.194.75.141  m-dot-betaspike.appspot.com
+173.194.76.128   static.panoramio.com
+173.194.37.99  panoramio.com
+173.194.37.99  www.panoramio.com
 
-74.125.31.190      ssl.google-analytics.com
-74.125.31.190      www.googlelabs.com
-173.194.73.141      chrometophone.appspot.com
-173.194.73.141      lfe-alpo-gm.appspot.com
-74.125.31.190      img0.gmodules.com
+74.125.31.190  ssl.google-analytics.com
+74.125.31.190  www.googlelabs.com
+173.194.73.141  chrometophone.appspot.com
+173.194.73.141  lfe-alpo-gm.appspot.com
+74.125.31.190  img0.gmodules.com
 
 # Google Play Download
 203.208.46.170      r1---sn-i3b7sn7d.c.android.clients.google.com
